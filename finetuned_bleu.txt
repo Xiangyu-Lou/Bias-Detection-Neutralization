@@ -1,0 +1,1285 @@
+Sample: 0
+Predicted Neutral Text: hamas, acronym of harakat al-muqawama al-islamiyya (arabic: , literally "islamic resistance movement" and arabic for 'zeal'), is a palestinian islamist movement, and military organization .
+Source Text: hamas, acronym of harakat al-muqawama al-islamiyya (arabic: , literally "islamic resistance movement" and arabic for 'zeal'), is a palestinian islamist movement, political party , and terrorist organization .
+BLEU Score: 0.8358976873607072
+
+Sample: 1
+Predicted Neutral Text: in 1960, following his returm from military service, the various "yes men" and employees hired by elvis presley to handle security and his concert tours were dubbed the "memphis mafia" by the news media.
+Source Text: in 1960, following his returm from military service, the various "yes men" and employees hired by elvis presley to handle security and his concert tours were affectionately dubbed the "memphis mafia" by the news media.
+BLEU Score: 0.9375922238875157
+
+Sample: 2
+Predicted Neutral Text: the team debuted during the 2013 foundation cup and is owned by topboss plastic, inc., a manufacturing company that produces pvc sheetings and linoleum .
+Source Text: the team debuted during the 2013 foundation cup and is owned by topboss plastic, inc., a manufacturing company that produces different kinds quality pvc sheetings and durable linoleum
+BLEU Score: 0.7763212727427719
+
+Sample: 3
+Predicted Neutral Text: his final cry as the south tower of the world trade center collapsed made international headlines.
+Source Text: his chilling final cry as the south tower of the world trade center collapsed made international headlines.
+BLEU Score: 0.8951773977190107
+
+Sample: 4
+Predicted Neutral Text: suad amiry (arabic: ); is an author and architect living in the west bank town of ramallah.
+Source Text: suad amiry (arabic: ); is an author and architect living in the west bank town of ramallah , in occupied palestine .
+BLEU Score: 0.7936553953409219
+
+Sample: 5
+Predicted Neutral Text: in this vein, some readers have found farrell's critique of colonialism and capitalism in his subsequent novel the singapore grip to be heavy-handed.
+Source Text: in this vein, some readers have found farrell's critique of colonialism and capitalism in his subsequent novel the singapore grip to be heavy-handed : matthew price , writing in bookforum, commented that the book "reads like a soap opera written by a committee of marxists".
+BLEU Score: 0.37027962911559026
+
+Sample: 6
+Predicted Neutral Text: the banded carbide precipitates appear in the blade as a complex of light areas ( " inclusions " ) and dark swirling patter , and use of pattern-welding can artificially induce this effect.
+Source Text: the banded carbide precipitates appear in the blade as a beautiful swirling patterning, apparently the origin of the term damask.
+BLEU Score: 0.2821717364449649
+
+Sample: 7
+Predicted Neutral Text: the italian hot dog was invented by jimmy buff's in newark, new jersey in 1932.
+Source Text: the italian hot dog was invented by self promoting jimmy buff's in newark, new jersey in the 1932.
+BLEU Score: 0.6898754206012674
+
+Sample: 8
+Predicted Neutral Text: azerbaijanis, also known as azeris, are an iranian people numbering ca.
+Source Text: azerbaijanis, also known as azeris, are a iranian people numbering ca.
+BLEU Score: 0.7825422900366437
+
+Sample: 9
+Predicted Neutral Text: creation according to genesis (what some scholars refer to as the jewish creation myth) is a story in the first two chapters of genesis.
+Source Text: creation according to genesis is the jewish creation myth in the first two chapters of genesis.
+BLEU Score: 0.43777452733697847
+
+Sample: 10
+Predicted Neutral Text: in the kingdom of sardinia , homosexual acts were illegal and severely punished .
+Source Text: the kingdom of sardinia was a homophobic state and punished homosexuality severely.
+BLEU Score: 0.21142141714303078
+
+Sample: 11
+Predicted Neutral Text: he is the eldest son of gary ablett, who was a champion aussie rules player at geelong and hawthorn between 1982 - 1997. while gary sr. was a powerhouse forward with an excellent leap, gary jr. has made his name as a dashing on-baller/forward pocket known for his ability to find space in the tightest pack situations.
+Source Text: he is the eldest son of gary ablett, who was a champion aussie rules player at geelong and hawthorn between 1982 - 1997. while gary sr. was a powerhouse forward with a magnificent leap, gary jr. has made his name as a dashing on-baller/forward pocket known for his amazing ability to find space in the tightest pack situations.
+BLEU Score: 0.897806525196564
+
+Sample: 12
+Predicted Neutral Text: frontline executive producer michael sullivan said, "one should be cautious in ascribing its meaning.
+Source Text: however, as frontline executive producer michael sullivan said, "one should be cautious in ascribing its meaning.
+BLEU Score: 0.8382234324229999
+
+Sample: 13
+Predicted Neutral Text: an accident involving a helicopter during the filming of twilight zone: the movie killed actor vic morrow and two child actors.
+Source Text: a horrible accident involving a helicopter during the filming of twilight zone: the movie killed actor vic morrow and two child actors.
+BLEU Score: 0.9127967233952943
+
+Sample: 14
+Predicted Neutral Text: it was also nominated for two primetime emmy awards pows for outstanding comedy series for its second season of 22 episodes.
+Source Text: she is known for her emmy-nominated portrayal of pam beesly on the nbc situation comedy the office.
+BLEU Score: 1.1896457329133973e-231
+
+Sample: 15
+Predicted Neutral Text: he also stated that he thinks of the ending as a happy one because there will be a better tomorrow for those left behind and that lelouch would appreciate this, and director goro taniguchi also notes that the tone of the ending is left for the audience to interpret.
+Source Text: he also stated that he thinks of the ending as a happy one because there will be a better tomorrow for those left behind and that lelouch would appreciate this, though director goro taniguchi also notes that the tone of the ending is left for the audience to interpret.
+BLEU Score: 0.948661035297062
+
+Sample: 16
+Predicted Neutral Text: ammukutty, known as ammu swaminathan, a social worker and independence activist from the vadakkath family of anakkara in palghat, kerala.
+Source Text: ammukutty, better known as ammu swaminathan, a social worker and independence activist from the prominent vadakkath family of anakkara in palghat, kerala.
+BLEU Score: 0.7991334062590754
+
+Sample: 17
+Predicted Neutral Text: with its affordable price and design, it became one of the best-selling chairs ever made.
+Source Text: with its affordable price and attractive design, it became one of the best-selling chairs ever made.
+BLEU Score: 0.8428014430784181
+
+Sample: 18
+Predicted Neutral Text: despite his bleak existentialist outlook, solidified in the public mind through his articulate and vivid series of interviews with david sylvester, bacon in person was highly engaging and charismatic, articulate, well-read and gay.
+Source Text: despite his bleak existentialist outlook, solidified in the public mind through his articulate and vivid series of interviews with david sylvester, bacon in person was highly engaging and charismatic, articulate, well-read and unapologetically gay.
+BLEU Score: 0.9397275731821769
+
+Sample: 19
+Predicted Neutral Text: the term clintonomics, a portmanteau of clinton and economics, was used to describe and evaluate the economic policies of u.s. president bill clinton during the 1990s.
+Source Text: the term clintonomics, a portmanteau of clinton and economics, was used to describe , and decry, the economic policies of u.s. president bill clinton during the 1990s.
+BLEU Score: 0.8190995055474228
+
+Sample: 20
+Predicted Neutral Text: some critics have noted that the black characters in the book are not depicted speaking in pidgin english, and any derogatory references are slight and passing.
+Source Text: it is fair to note that the black characters in the book are not depicted speaking in pidgin english, and any derogatory references are slight and passing.
+BLEU Score: 0.8189850197975076
+
+Sample: 21
+Predicted Neutral Text: in 2004 he was forced to retire after being diagnosed with als.
+Source Text: in 2004 he was forced to retire after ironically being diagnosed with als.
+BLEU Score: 0.7881929718099911
+
+Sample: 22
+Predicted Neutral Text: on 30 november 2011 while being interviewed on bbc's the one show, clarkson commented on the uk's public sector strike that day, and said "...i would have them shot [...]".
+Source Text: on 30 november 2011 while being interviewed on bbc's the one show, clarkson commented on the uk's public sector strike that day, and jokingly said "...i would have them taken outside and executed in front of their families..".
+BLEU Score: 0.6894375248466218
+
+Sample: 23
+Predicted Neutral Text: the zimbabwe african national union was a political party during the struggle for rhodesia's, ultimately zimbabwe's, independence, formed as a split from zapu.
+Source Text: the zimbabwe african national union was a political party during the struggle for rhodesia's, ultimately zimbabwe's, independence, formed as a split from zapu.
+BLEU Score: 1.0
+
+Sample: 24
+Predicted Neutral Text: in 2008, bishop gave a speech before the national conference of the council of conservative citizens .
+Source Text: in 2008, bishop gave a speech before the national conference of the pro-segregationist council of conservative citizens
+BLEU Score: 0.8394327083733336
+
+Sample: 25
+Predicted Neutral Text: yeats' likely targets for next season will be the 'cup races', notably the yorkshire cup, ascot gold cup, goodwood cup, lonsdale cup and cadran cup , with a possible defense of a potential melbourne cup crown .
+Source Text: yeats' likely targets for next season will be the 'cup races', notably the yorkshire cup, ascot gold cup , goodwood cup , lonsdale cup and cadran cup , with a possible defense of a potential melbourne cup crown .
+BLEU Score: 1.0
+
+Sample: 26
+Predicted Neutral Text: lennox lewis was among the first to criticize calzaghe refused to fight johnson " as long as they pay me the money i'm supposed to get ".
+Source Text: calzaghe was tentatively scheduled to fight former light heavyweight champion glen johnson in the featured bout of a 8 july, 2006 card at millennium stadium in cardiff, wales he was forced to withdraw from the fight when he re aggravated a hand injury , leading many to believe he ducked a fight with the dangerous johnson .
+BLEU Score: 1.7660909078089877e-155
+
+Sample: 27
+Predicted Neutral Text: including resistance to the duke of westminsters rape of cambridge's kite area .
+Source Text: after living in radnorshire, mid-wales from 1970 to 1975, alverson moved to cambridge, england, where he was active in rabble-rousing activities , including resistance to the duke of westminsters rape of cambridge's kite area .
+BLEU Score: 0.15611804531597107
+
+Sample: 28
+Predicted Neutral Text: 1941 ) is an abortion provider in wichita, kansas in the united states.
+Source Text: 1941 ) is a abortionist in wichita, kansas in the united states.
+BLEU Score: 0.6475445426291286
+
+Sample: 29
+Predicted Neutral Text: the modiglianimiller theorem (of franco modigliani, merton miller) is a theorem on capital structure, forming part of the basis for modern thinking on capital structure.
+Source Text: the modiglianimiller theorem (of franco modigliani, merton miller) forms the basis for modern thinking on capital structure.
+BLEU Score: 0.5917351498989449
+
+Sample: 30
+Predicted Neutral Text: there are now two main types of matches: safety matches (invented by hungarian chemist, jnos irinyi ) and strike anywhere matches.
+Source Text: there are now two main types of matches: safety matches (invented by hungarian chemist, jnos irinyi and strike anywhere matches.
+BLEU Score: 0.8895260356363631
+
+Sample: 31
+Predicted Neutral Text: nokes is a member of test valley borough council from 1999, when she was elected as a councillor for the romsey extra ward; her term will end in 2011.
+Source Text: nokes is a member of test valley borough council from 1999, when she was elected as a councillor for the romsey extra ward; her term will end in 2011 , unless she resigns before .
+BLEU Score: 0.8338550659351988
+
+Sample: 32
+Predicted Neutral Text: the book of the dead itself was drastically rewritten, reorganized, and amended several times in egypt, creating four distinct versions which have been found.
+Source Text: the book of the dead itself was drastically rewritten, reorganized, and amended several times in egypt, creating four distinct versions which have been found.
+BLEU Score: 1.0
+
+Sample: 33
+Predicted Neutral Text: he is a member of the democratic party and is the first democrat to represent idaho at the federal level since larry larocco, who represented the 1st for two terms until the republican revolution of 1994 .
+Source Text: he is a member of the democratic party and is the first democrat to represent idaho at the federal level since larry larocco, who represented the 1st for two terms until being swept out in the republican revolution of 1994 .
+BLEU Score: 0.8617366679783488
+
+Sample: 34
+Predicted Neutral Text: instead of forcing the emeralds off of her once she was back on her feet, knuckles gazed into her eyes.
+Source Text: instead of forcing the emeralds off of her once she was back on her feet, knuckles gazed almost lovingly into her large, heavily-shadowed eyes.
+BLEU Score: 0.6926872542273717
+
+Sample: 35
+Predicted Neutral Text: may 14 at a press conference, john lennon and paul mccartney introduce the beatles' new business concept, apple corps, ltd., an entertainment company that included a recording studio, a record label, and clothing store.
+Source Text: may 14 at a press conference, john lennon and paul mccartney introduce the beatles' new business concept, apple corps, ltd., a disastrously mismanaged entertainment company that included a recording studio, a record label, and clothing store.
+BLEU Score: 0.8934277386058468
+
+Sample: 36
+Predicted Neutral Text: however, mills was a strong proponent of the cause and his efforts had a profound effect on reducing the loss of life through lifeboat-related accidents .
+Source Text: it was during his time at sea that mills witnessed great loss of life caused by the tragically unsafe engaging and disengaging methods used on ship lifeboats.
+BLEU Score: 2.1624164961851883e-78
+
+Sample: 37
+Predicted Neutral Text: the inquest stated that she was part of an internet "emo" cult and her bebo page contained an image of an 'emo girl' with bloody wrists.
+Source Text: the inquest revealed that she was part of an internet "emo" cult and her bebo page contained an image of an 'emo girl' with bloody wrists.
+BLEU Score: 0.9193227152249185
+
+Sample: 38
+Predicted Neutral Text: lin falls in love with karla, a swiss-american woman who does not love him back, befriends local artists and actors, landing him roles as an extra in several bollywood movies, and is recruited by the mumbai underworld for various criminal operations, including drug and weapons trade.
+Source Text: lin falls in love with karla, a swiss-american woman who refuses to love him back, befriends local artists and actors, landing him roles as an extra in several bollywood movies, and is recruited by the mumbai underworld for various criminal operations, including drug and weapons trade.
+BLEU Score: 0.9298663600557577
+
+Sample: 39
+Predicted Neutral Text: he spent the 2012 postseason on the physically unable to perform list as the cardinals won the 2012 nlds against the washington nationals but lost the 2012 nlcs against the san francisco giants.
+Source Text: he spent the 2012 postseason on the physically unable to perform list as the cardinals won the 2012 nlds against the washington nationals in a fantastic 9th inning comeback, but lost the 2012 nlcs , in a fantastic 3-1 comeback, against the san francisco giants.
+BLEU Score: 0.5977662497292334
+
+Sample: 40
+Predicted Neutral Text: dubai ladies club is a private members club for women.
+Source Text: dubai ladies club is an ultra exclusive private members club for women.
+BLEU Score: 0.5850343668259105
+
+Sample: 41
+Predicted Neutral Text: however, the only other person buried there was ussishkin himself, who died in 1941. a national leaders plot was established on mount herzl after the founding of the state in 1948, in part because mount scopus became an enclave in jordanian- controlled territory.
+Source Text: however, the only other person buried there was ussishkin himself, who died in 1941. a national leaders plot was established on mount herzl after the founding of the state in 1948, in part because mount scopus became an enclave in jordanian- ruled territory.
+BLEU Score: 0.9499061377633666
+
+Sample: 42
+Predicted Neutral Text: keith olbermann (born january 27, 1959) is an american news anchor, commentator and radio sportscaster.
+Source Text: keith olbermann (born january 27, 1959) is the best american news anchor, commentator and radio sportscaster.
+BLEU Score: 0.8160528832434369
+
+Sample: 43
+Predicted Neutral Text: the united states of america was a progressive rock and psychedelic band whose works are often considered an example of early electronic music in rock and roll.
+Source Text: the united states of america was a progressive rock and psychedelic band whose works are an intriguing example of early electronic music in rock and roll.
+BLEU Score: 0.8347563508866299
+
+Sample: 44
+Predicted Neutral Text: the panacea society is a christian cult based in bedford, england who send out cure-alls and wish to promote the work of joanne southcott.
+Source Text: the panacea society is a basically harmless christian cult based in bedford, england who send out cure-alls and wish to promote the work of joanne southcott.
+BLEU Score: 0.8660419717290375
+
+Sample: 45
+Predicted Neutral Text: - short: fc porto or fcp - is a portuguese sports club best known for its footballing team .
+Source Text: - short: fc porto or fcp - is a portuguese sports club best known for its footballing wonders .
+BLEU Score: 0.9036020036098448
+
+Sample: 46
+Predicted Neutral Text: it may be known by various other names â for example, the united states' past conscription program was known colloquially as "the draft".
+Source Text: it is known by various names â for example, the united states' past conscription program was known colloquially as "the draft".
+BLEU Score: 0.7967232840950673
+
+Sample: 47
+Predicted Neutral Text: over the next few years, the nutrition foundation funded and designed several small studies , each concluding that the diet produced little effect.
+Source Text: over the next few years, the nutrition foundation funded and designed several small studies carefully crafted to show that the diet produced little effect.
+BLEU Score: 0.7722609411761969
+
+Sample: 48
+Predicted Neutral Text: robert silverberg (born january 15, 1935) is a author, best known for writing science fiction.
+Source Text: robert silverberg (born january 15, 1935) is a prolific american author, best known for writing science fiction.
+BLEU Score: 0.8257183305096683
+
+Sample: 49
+Predicted Neutral Text: spiegel worked briefly in hollywood in 1927 following a stint serving with hashomer hatzair in mandate palestine.
+Source Text: spiegel came briefly to hollywood in 1927 following a stint serving with hashomer hatzair in palestine.
+BLEU Score: 0.6341922683775969
+
+Sample: 50
+Predicted Neutral Text: congressman dick zimmer stated, "i believe he is exactly the kind of predator that the legislature had in mind when it enacted the death penalty."
+Source Text: congressman dick zimmer stated , and rightfully so , "i believe he is exactly the kind of predator that the legislature had in mind when it enacted the death penalty."
+BLEU Score: 0.8458808289725321
+
+Sample: 51
+Predicted Neutral Text: some of those remaining, like in edinburgh, have been converted into high street coffee bars, though the city has many dozens remaining untouched - in various states of disrepair.
+Source Text: some of those remaining, like in edinburgh, have been converted into high street coffee bars, though the city has many dozens remaining untouched - sadly in various states of disrepair.
+BLEU Score: 0.9219602423775934
+
+Sample: 52
+Predicted Neutral Text: it was founded by a 12 conservatives of immense wealth , most notably sheldon adelson, who donated almost all of its initial funding.
+Source Text: it was founded by a dozen conservatives of immense wealth , most notably sheldon adelson, who donated almost all of its initial funding.
+BLEU Score: 0.8895260356363631
+
+Sample: 53
+Predicted Neutral Text: 2012 also saw cwnn contribute the opening track to a remix album from the german band s.y.p.h., which features ex-captain beefheart guitarist gary lucas and rambo amadeus, amongst others.
+Source Text: 2012 also saw cwnn contribute the opening track to a remix album from the legendary german band s.y.p.h., which features ex-captain beefheart guitarist gary lucas and rambo amadeus, amongst others.
+BLEU Score: 0.9194353966999143
+
+Sample: 54
+Predicted Neutral Text: a serving indian army officer who travelled throughout india and an active participant in curbing the terrorism in jammu and kashmir.
+Source Text: lt. colonel gopakumar pallikalathu, ma,mba,pgdm - a serving indian army officer : a multi faceted personality who travelled throughout india and an active participant in curbing the terrorism in jammu and kashmir.
+BLEU Score: 0.44540425924590404
+
+Sample: 55
+Predicted Neutral Text: on 12 may 2007, at the party's first ard fheis, its members voted to become a fully-fledged political party , and at its 2009 ard fheis passed a motion to " register irg as a political party with the relevant authority within the twenty-six counties" .
+Source Text: on 12 may 2007, at the party's first ard fheis, its members voted to become a fully-fledged political party , and at its 2009 ard fheis passed a motion to " register irg as a political party with the relevant authority within the twenty-six counties" .
+BLEU Score: 1.0
+
+Sample: 56
+Predicted Neutral Text: this situation had forced the show's creator, irna phillips to quit the show.
+Source Text: this situation had forced the show's creator, irna phillips to quit the show in her typical fury .
+BLEU Score: 0.7365443056748837
+
+Sample: 57
+Predicted Neutral Text: with a few exceptions (such as robert m. price), scholars in the fields of biblical studies and history agree that jesus was a jewish teacher from galilee who was regarded as a healer, was baptized by john the baptist, was accused of sedition against the roman empire, and on the orders of roman governor pontius pilate was sentenced to death by crucifixion.
+Source Text: with few exceptions (such as robert m. price), scholars in the fields of biblical studies and history agree that jesus was a jewish teacher from galilee who was regarded as a healer, was baptized by john the baptist, was accused of sedition against the roman empire, and on the orders of roman governor pontius pilate was sentenced to death by crucifixion.
+BLEU Score: 0.9739627770185935
+
+Sample: 58
+Predicted Neutral Text: the trail continues along the ridge, affording extensive views of the surrounding palouse country before dropping back into the forest.
+Source Text: the trail continues along the ridge, affording spectacular views of the surrounding palouse country before dropping back into the forest.
+BLEU Score: 0.8725129388059689
+
+Sample: 59
+Predicted Neutral Text: another myth is that marriage on april fools' day is not a good idea for a man, for he will be permanently ruled by his wife.
+Source Text: marriage on april fools' day is not , however, a good idea for a man, for he will be permanently ruled by his wife.
+BLEU Score: 0.7965020533851944
+
+Sample: 60
+Predicted Neutral Text: careful marketing made the brand known for understated, sexy, classic casual wear.
+Source Text: careful marketing made the brand synonymous with understated, sexy, classic casual wear.
+BLEU Score: 0.7241577342575828
+
+Sample: 61
+Predicted Neutral Text: the practice of using bc and ad was first proposed in the 6th century by dionysius exiguus, in the christian church but the days themselves were changed at some point after six hundred years later.
+Source Text: the new testament or the aramaic scriptures is the name given to the part of the christian bible that was written after the birth of jesus christ.
+BLEU Score: 4.2766803073074825e-155
+
+Sample: 62
+Predicted Neutral Text: the only thing that can be considered definitely better in independent schools is the fact that they have more individual teaching by better teachers; much better pupil-teacher ratios at around 9:1.
+Source Text: independent schools, as compared with maintained schools, are generally characterised by more individual teaching by better teachers ; much better pupil-teacher ratios at around 9:1. ; longer teaching hours (sometimes including saturday morning teaching) and homework, though shorter terms; more time for organised sports and extra-curricular activities; more emphasis on traditional academic subjects such as maths, classics and modern languages; a broader view of education than that prescribed by the national curriculum, to which state school education is in practice limited; more emphasis on achievement, whether academic, sporting, musical, dramatic, artistic, or otherwise; and historical buildings and school traditions.
+BLEU Score: 0.031435291340557434
+
+Sample: 63
+Predicted Neutral Text: robert gabriel mugabe kcb (born 21 february 1924) is the current president of zimbabwe.
+Source Text: robert gabriel mugabe kcb (born 21 february 1924) is the dictator president of zimbabwe.
+BLEU Score: 0.8282477531331041
+
+Sample: 64
+Predicted Neutral Text: bufflo dreams was founded by chris scioli and gregory lamberson, an award winning author and filmmaker.
+Source Text: buffalo dreams film festival aka buffalo dreams fantastic film festival was founded by chris scioli and gregory lamberson, an award winning author and filmmaker.
+BLEU Score: 0.5716759936793435
+
+Sample: 65
+Predicted Neutral Text: the new discovery of rnai has some promise in treating als.
+Source Text: the new discovery of rnai has some promise in curing als.
+BLEU Score: 0.7691605673134586
+
+Sample: 66
+Predicted Neutral Text: the u.s. government is at risk of representing of the rich and powerful rather than the interests of the majority of citizens .
+Source Text: the u.s. government represents not the interests of the majority of citizens but those of the rich and powerful .
+BLEU Score: 0.4699739598002697
+
+Sample: 67
+Predicted Neutral Text: thompson later served as health and human services secretary under president george w. bush.
+Source Text: thompson was later awarded a position as health and human services secretary under president george w. bush.
+BLEU Score: 0.6603070556573893
+
+Sample: 68
+Predicted Neutral Text: and tonight that is a privilege we share with newly-elected leaders of afghanistan, the palestinian territories, ukraine, and a free and sovereign iraq," a reference to the first democratic elections that took place in the respective nations.
+Source Text: and tonight that is a privilege we share with newly-elected leaders of afghanistan, the palestinian territories, ukraine, and a free and sovereign iraq," a reference to the first truly democratic , and relatively fair and free, elections that took place in the respective nations.
+BLEU Score: 0.7838162521732399
+
+Sample: 69
+Predicted Neutral Text: since 2009, bakrie serves as the chairman of the golkar party and is a candidate for the indonesian presidential election, 2014.
+Source Text: since 2009, bakrie serves as the chairman of the golkar party and is poised to become its nominee for the indonesian presidential election, 2014.
+BLEU Score: 0.740933476827561
+
+Sample: 70
+Predicted Neutral Text: list of gaza flotilla partisans
+Source Text: list of gaza flotilla survivors
+BLEU Score: 0.668740304976422
+
+Sample: 71
+Predicted Neutral Text: his role has been controversial, and some media sources have made allegations of improper conduct against him.
+Source Text: his role has been controversial, and the serbian media have made a number of allegations of improper conduct against him.
+BLEU Score: 0.5638310643573382
+
+Sample: 72
+Predicted Neutral Text: lostprophets disbanded in 2013 after watkins was charged with extremely serious child sex offences in late 2012. after a highly publicized series of events watkins eventually pleaded guilty.
+Source Text: lostprophets disbanded in 2013 after watkins was unexpectedly charged with extremely serious child sex offences in late 2012. after a highly publicized series of events watkins eventually decided to plead guilty.
+BLEU Score: 0.7731030353787743
+
+Sample: 73
+Predicted Neutral Text: during this time assisting fugitive slaves was illegal even in the north, and often unacceptable to most white communities.
+Source Text: during this time assisting fugitive slaves was both illegal and unacceptable to most white communities.
+BLEU Score: 0.5186653964016543
+
+Sample: 74
+Predicted Neutral Text: since faster-than-light signaling is impossible according to the special theory of relativity, any doubts about entanglement due to such a loophole are thereby removed .
+Source Text: since faster-than-light signaling is impossible according to the special theory of relativity, any doubts about entanglement due to such a loophole have thereby been quashed .
+BLEU Score: 0.8225016744367809
+
+Sample: 75
+Predicted Neutral Text: hitchcock collected these bones under the name megadactylus in 1865. however , the name was in use, and the paleontologist othniel charles marsh renamed it anchisaurus in 1885. remains thought to belong to this genus were found in south africa and china, adding to the theory that these land masses were at the time joined in one super-continent, pangaea, but these assignments have been contentious (gyposaurus).
+Source Text: hitchcock collected these bones under the name megadactylus in 1865. unfortunately , the name was in use, and the famous paleontologist othniel charles marsh renamed it anchisaurus in 1885. remains thought to belong to this genus were found in south africa and china, adding to the theory that these land masses were at the time joined in one super-continent, pangaea, but these assignments have been contentious (gyposaurus).
+BLEU Score: 0.9301743131134687
+
+Sample: 76
+Predicted Neutral Text: a christmas carol (1949) a 30-minute filmed television adaptation starred taylor holmes as scrooge with vincent price as the on-screen narrator.
+Source Text: a christmas carol (1949) a 30-minute filmed television adaptation , reportedly notorious among modern critics for its cheap special effects, starred taylor holmes as scrooge with vincent price as the on-screen narrator.
+BLEU Score: 0.5635618700340759
+
+Sample: 77
+Predicted Neutral Text: the 2004 champ car world series season saw new sponsors american medical response and yoke tv.
+Source Text: the 2004 champ car world series season was the team's strongest year with new sponsors american medical response and yoke tv.
+BLEU Score: 0.5819422127053269
+
+Sample: 78
+Predicted Neutral Text: the former is generally taken in year 12 ( year 13 in northern ireland ) also known as "lower sixth" and the latter is generally taken in year 13 (year 14 in northern ireland) which is also known as "upper sixth".
+Source Text: the former is generally taken in year 12 ( year 13 in northern ireland ) also known as "lower sixth" and the latter is generally taken in year 13 (year 14 in northern ireland) which is also known as "upper sixth".
+BLEU Score: 1.0
+
+Sample: 79
+Predicted Neutral Text: the armilla patrol was established to ensure the safety of british shipping in the persian gulf and is also responsible for maintaining a presence in the region.
+Source Text: the armilla patrol was established to ensure the safety of british shipping in the persian gulf and is also responsible for maintaining a reassuring british presence for friendly nations in the region such as the persian gulf states .
+BLEU Score: 0.5946083587389625
+
+Sample: 80
+Predicted Neutral Text: he is remembered in cricket terms for scoring 234 in the second test against england at sydney in december 1946; exactly the same score as his captain, don bradman, in the process setting a world-record 405-run fifth wicket partnership.
+Source Text: he is best remembered in cricket terms for scoring 234 in the second test against england at sydney in december 1946; exactly the same score as his captain, don bradman, in the process setting a world-record 405-run fifth wicket partnership.
+BLEU Score: 0.9468580129266451
+
+Sample: 81
+Predicted Neutral Text: following the incident , the marlins scored eight runs, six of them unearned:
+Source Text: following bartman's betrayal , the marlins scored eight runs, six of them unearned:
+BLEU Score: 0.7406375008540003
+
+Sample: 82
+Predicted Neutral Text: a gilded bronze oil lamp in the shape of a female servant, dated 2nd century bce, found in the tomb of dou wan, wife to the han prince liu sheng; its sliding shutter allows for adjustments in the direction and brightness in rays of light while it also traps smoke within the body.
+Source Text: a gilded bronze oil lamp in the shape of a female servant, dated 2nd century bce, found in the tomb of dou wan, wife to the han prince liu sheng; its sliding shutter allows for adjustments in the direction and brightness in rays of light while it also traps smoke within the body , thus considered an anti-pollutant design .
+BLEU Score: 0.8896162569713209
+
+Sample: 83
+Predicted Neutral Text: in the early 20th century, after the fall of the qing dynasty and the end of control over tibet by chinese central government , the tibetan army received training from the british and japanese and adopted an army flag.
+Source Text: in the early 20th century, after the fall of the qing dynasty and the end of chinese hegemony over tibet, the tibetan army received training from the british and japanese and adopted an army flag.
+BLEU Score: 0.8059827084984124
+
+Sample: 84
+Predicted Neutral Text: donald mcdonald (abc chairman ), the chairman of the australian broadcasting corporation
+Source Text: donald mcdonald (abc chairman ), the chairman of the australian broadcasting corporation
+BLEU Score: 1.0
+
+Sample: 85
+Predicted Neutral Text: the suite bergamasque is a well-known piano suite of claude debussy.
+Source Text: the suite bergamasque is one of the most fascinating and famous piano suites of claude debussy.
+BLEU Score: 0.2878795349324625
+
+Sample: 86
+Predicted Neutral Text: the war on drugs is a prohibition campaign undertaken by the united states government with the assistance of participating countries, intended to reduce the illegal drug tradeto curb supply and diminish demand for specific psychoactive substances .
+Source Text: the war on drugs is a controversial prohibition campaign undertaken by the united states government with the assistance of participating countries, intended to reduce the illegal drug tradeto curb supply and diminish demand for specific psychoactive substances deemed immoral, harmful, dangerous, or undesirable.
+BLEU Score: 0.7195398158074116
+
+Sample: 87
+Predicted Neutral Text: the 4th season of the series was rebroadcast on singapore's channel 5 in 2008 as a tribute to shum, after her death .
+Source Text: the 4th season of the series was rebroadcast on singapore's channel 5 in 2008 as a tribute to shum, after her passing .
+BLEU Score: 0.9244754047211334
+
+Sample: 88
+Predicted Neutral Text: wilson had opposed the entry of the united states into world war i in 1917, though he had been largely responsible for establishing the new league of nations.
+Source Text: the change was made more remarkable by the fact that wilson had run on an anti-war platform in 1916 with the slogan "he kept us out of war" (though he had tried to emphasize americanism rather than neutrality) .
+BLEU Score: 1.552559083792032e-78
+
+Sample: 89
+Predicted Neutral Text: in the baltics, r1a1a frequencies decrease from lithuania (45%) to estonia (around 30%).. in the balkans, r1a1 shows lower frequencies, and significant variation between areas, for example more than 30% in bulgaria, croatia and slovenia, but less than 10% in albania, kosovo and greece.
+Source Text: in the baltics, r1a1a frequencies decrease from lithuania (45%) to estonia (around 30%).. in the balkans, r1a1 shows lower frequencies, and significant variation between areas, for example more than 30% in bulgaria, croatia ,slovenia, serbia, and macedonia , but less than 10% in albania, kosovo , greece.
+BLEU Score: 0.8419571227931603
+
+Sample: 90
+Predicted Neutral Text: for such companies, the court's conservative majority directly struck down the contraceptive mandate, a regulation adopted by the us department of health and human services (hhs) under the affordable care act (aca) requiring employers to cover certain contraceptives for their female employees, by a 5-4 vote.
+Source Text: for such companies, the court's conservative majority directly struck down the contraceptive mandate, a regulation adopted by the us department of health and human services (hhs) under the affordable care act (aca) requiring employers to cover certain contraceptives for their female employees, by a 5-4 vote.
+BLEU Score: 1.0
+
+Sample: 91
+Predicted Neutral Text: the chinese government would have to erect on the spot of the assassination of baron von ketteler a commemorative arch inscribed in latin, german, and chinese .
+Source Text: the chinese government would have to erect on the spot of the assassination of baron von ketteler a commemorative arch inscribed in latin, german, and chinese languages .
+BLEU Score: 0.9391172600879922
+
+Sample: 92
+Predicted Neutral Text: but if you read the actual criticism from ed bott and george ou, they never attacked the slides and only criticize what guttmann has published in his original paper.
+Source Text: but if you read the actual criticism from ed bott and george ou, they never attacked the slides and only criticize what guttmann has published in his original paper.
+BLEU Score: 1.0
+
+Sample: 93
+Predicted Neutral Text: throughout his career, he has alternated between serious dramatic roles and character roles in comedy films, such as his role as an african pilot in the urban movie soul plane , where his performance as a parody of himself was lampooned in regard to his vegetarian lifestyle.
+Source Text: he also played a funny role in the urban movie soul plane, acting as an african pilot.
+BLEU Score: 0.17099135675365112
+
+Sample: 94
+Predicted Neutral Text: 27 november: he was charged with two counts of criminal damage after it was said that he had snatched the ignition keys from the cars of photographers following his brother isaac ferry and his brother's actress friend sienna miller outside a nightclub after a bafta after-show party.
+Source Text: 27 november: he was charged with two counts of criminal damage after it was said that he had snatched the ignition keys from the cars of photographers pursuing his brother isaac ferry and his brother's actress friend sienna miller outside a nightclub after a bafta after-show party.
+BLEU Score: 0.9475833735368083
+
+Sample: 95
+Predicted Neutral Text: the remark caused a media firestorm, drawing vociferous opposition from western governments, especially the u.s. government under george w. bush.
+Source Text: the remark caused a media firestorm, with drawing vociferous opposition from western governments, especially the u.s. government under george w. bush.
+BLEU Score: 0.8862476419965991
+
+Sample: 96
+Predicted Neutral Text: today his military reputation has recovered while experts rank his presidential achievements below average .
+Source Text: today his military reputation has recovered , while experts rank his presidential achievements well below average.
+BLEU Score: 0.6459139467348547
+
+Sample: 97
+Predicted Neutral Text: the jewish community responded to these objections by stating that the method was humane.
+Source Text: the jewish community responded to these objections by telling the public that the method was in fact humane.
+BLEU Score: 0.5278890511109626
+
+Sample: 98
+Predicted Neutral Text: modern dst was first proposed by the new zealand entomologist george vernon hudson, whose shift-work job gave him leisure time to collect insects, and made him aware of the value of after-hours daylight.
+Source Text: modern dst was first proposed by the new zealand entomologist george vernon hudson, whose shift-work job gave him leisure time to collect insects, and made him aware of the value of after-hours daylight.
+BLEU Score: 1.0
+
+Sample: 99
+Predicted Neutral Text: in contrast to his on stage personality, reznor is often credited to be shy, soft spoken and reclusive .
+Source Text: in contrast to his on stage personality, reznor is often credited to be shy, soft spoken and a bit of a recluse .
+BLEU Score: 0.751062785543473
+
+Sample: 100
+Predicted Neutral Text: this text does not contain detectable subjective bias.
+Source Text: elon university is on the selective side, with an acceptance rate of 45% as of 2014. the university includes elon college, the college of arts and sciences; the martha and spencer love school of business; the school of communications; the school of education; the school of law; and the school of health sciences.
+BLEU Score: 2.9136390372410377e-234
+
+Sample: 101
+Predicted Neutral Text: indeed, undoubtedly the most shocking event in the novel occurs during a scene in which garp's son (walt) is accidentally killed and his other son injured because helen, while attempting to break off her affair with one of her students, agrees to fellatio as a sort of going-away present.
+Source Text: indeed, undoubtedly the most horrifying event in the novel occurs during a scene in which garp's son (walt) is accidentally killed and his other son injured because helen, while attempting to break off her affair with one of her students, agrees to fellatio as a sort of going-away present.
+BLEU Score: 0.9534460356445505
+
+Sample: 102
+Predicted Neutral Text: bill goldberg was picked up off the rosters of the atlanta falcons, but made panther history by being the first player cut by the panthers; goldberg would later become a successful professional wrestler for wcw and wwe.
+Source Text: in an interesting note, bill goldberg was picked up off the rosters of the atlanta falcons, but made panther history by being the first player cut by the panthers; goldberg would later go on to much greater fame as a professional wrestler for wcw and wwe.
+BLEU Score: 0.6911633778284894
+
+Sample: 103
+Predicted Neutral Text: president george w. bush announces a surge of 20,000 more troops to fight in the war in iraq.
+Source Text: president george w. bush announces a surge of 20,000 more troops in the war in iraq , causing uproar in the house, senate, and across the country .
+BLEU Score: 0.4172123454261137
+
+Sample: 104
+Predicted Neutral Text: muriel vanderbilt church phelps adams died in 1982 at the age of eighty.
+Source Text: muriel vanderbilt church phelps adams passed away in 1982 at the age of eighty.
+BLEU Score: 0.7285959997974691
+
+Sample: 105
+Predicted Neutral Text: the first europe taco bell was opened in the united kingdom .
+Source Text: the united kingdom was the first european country with a taco bell.
+BLEU Score: 4.56643251085054e-78
+
+Sample: 106
+Predicted Neutral Text: buckley is the author of a series of novels featuring the character of cia agent blackford oakes.
+Source Text: buckley is the author of a series of substandard novels featuring the character of cia agent blackford oakes.
+BLEU Score: 0.8522456714074852
+
+Sample: 107
+Predicted Neutral Text: april 17 - sun myung moon has a revelation from jesus telling him to complete his mission from almost 2000 years ago.
+Source Text: april 17 - sun myung moon has a revelation from jesus telling him to complete his mission from almost 2000 years ago.
+BLEU Score: 1.0
+
+Sample: 108
+Predicted Neutral Text: einstein was not a theoretical physicist who focused on problems with no immediate practical application, but rather a researcher who was able to keep in touch with practical developments.
+Source Text: bill roper is a notorious video game developer and has been a well-known figure in the worldwide gaming industry for over a decade.
+BLEU Score: 1.091900080306308e-231
+
+Sample: 109
+Predicted Neutral Text: colonel sir william walter mahon, 7th baronet, (born 4 december 1940) is an anglo-irish baronet and retired officer of the british army.
+Source Text: colonel sir william walter mahon, 7th baronet, (born 4 december 1940) is an anglo-irish baronet and retired regular officer of the british army.
+BLEU Score: 0.9038693388414086
+
+Sample: 110
+Predicted Neutral Text: it is a pre-eminent british public school and is one of the most famous schools in the world.
+Source Text: it is the pre-eminent british public school and is widely considered to be the most famous school in the world.
+BLEU Score: 0.4249095897383212
+
+Sample: 111
+Predicted Neutral Text: the current single-storey structure was built in the 1960s for the opening of the victoria line on 1 september 1968 and provides a combined entrance for all of the lines serving the station.
+Source Text: the current unattractive single-storey structure was built in the 1960s for the opening of the victoria line on 1 september 1968 and provides a combined entrance for all of the lines serving the station.
+BLEU Score: 0.9324757312410222
+
+Sample: 112
+Predicted Neutral Text: the presence chamber in the grand apartments is particularly unaltered and rare .
+Source Text: the westminster abbey museum is located in the magnificent 11th century vaulted undercroft of st peter beneath the former monks' dormitory in westminster abbey.
+BLEU Score: 2.321876335815011e-155
+
+Sample: 113
+Predicted Neutral Text: earthlings is a documentary about mankind's exploitation of animals for pets, food, clothing, entertainment, and use in experimentation.
+Source Text: earthlings is a documentary , using disturbing images, to demonstrate mankind's cruelty toward animals for pets, food, clothing, entertainment, and use in experimentation.
+BLEU Score: 0.571034988258832
+
+Sample: 114
+Predicted Neutral Text: he left his village at the age of 13 and enrolled as a mercenary in the ottoman militia of the local leader ali pasha.
+Source Text: he left his village at the age of 13 and enrolled as a mercenary in the ottoman militia of the local despot, ali pasha.
+BLEU Score: 0.8546472208904508
+
+Sample: 115
+Predicted Neutral Text: journalists and academics likewise lack unanimous agreement on what to call bitcoin.
+Source Text: journalists and academics likewise lack unanimous agreement on what to call bitcoin.
+BLEU Score: 1.0
+
+Sample: 116
+Predicted Neutral Text: the russian federation nonetheless lacks the military and political power of the former soviet union.
+Source Text: despite this acceptance, the russian federation lacked the military and political power of the former soviet union.
+BLEU Score: 0.6174459472770458
+
+Sample: 117
+Predicted Neutral Text: in 2006, trost was re-elected , defeating the ndp, andrew mason and liberal, peter stroh.
+Source Text: in 2006, trost fell less than 1% below getting a majority of the popular vote , handily defeating the second place ndp, andrew mason and third place liberal, peter stroh.
+BLEU Score: 0.23445101550796377
+
+Sample: 118
+Predicted Neutral Text: william f. friedman, us, introduced statistical methods into cryptography ; he is sometimes described as the founder of modern cryptography.
+Source Text: william f. friedman, us, introduced statistical methods into cryptography , can claim title of founder of modern cryptography.
+BLEU Score: 0.5963584321358336
+
+Sample: 119
+Predicted Neutral Text: japan also does not recognise the australian claim to australian antarctic territorial waters in which japanese ships conduct whaling.
+Source Text: japan also does not recognise the australian claim to australian antarctic territorial waters in which japanese ships illegally conduct whaling.
+BLEU Score: 0.8680538146126793
+
+Sample: 120
+Predicted Neutral Text: monica hesse of the washington post wrote that upon discovery of the hoax, bloggers, women, gays and lesbians, and syrians were unhappy, since a blog that claimed to be one of them was written by an american straight male.
+Source Text: monica hesse of the washington post stated that upon discovery of the hoax, bloggers, women, gays and lesbians, and syrians were unhappy, since a blog that claimed to be one of them was written by an american straight male.
+BLEU Score: 0.9414356817218077
+
+Sample: 121
+Predicted Neutral Text: anatolia roughly corresponds to the asian part of turkey.
+Source Text: anatolia corresponds to the western two-thirds of the asian part of turkey.
+BLEU Score: 0.4874858042804568
+
+Sample: 122
+Predicted Neutral Text: in march 2009 bolthouse vox announced a joint venture with wolfgang puck catering through which all bolthouse vox events will be catered by wolfgang puck.
+Source Text: most recently, in march 2009 bolthouse vox announced a key joint venture and alliance with wolfgang puck catering through which all bolthouse vox events will be catered exclusively by wolfgang puck.
+BLEU Score: 0.6188015633106378
+
+Sample: 123
+Predicted Neutral Text: rodney glen king (born april 2, 1965) is an american who was involved in a police
+Source Text: rodney glen king (born april 2, 1965) is an american who was famously the victim in a police brutality case involving the los angeles police department (lapd) on march 3, 1991. a bystander, george holliday, videotaped much of the incident from a distance.
+BLEU Score: 0.14952910972620775
+
+Sample: 124
+Predicted Neutral Text: carolynne cunningham is an academy award nominated film producer and assistant director most known for her collaborations with director peter jackson, producing such films as king kong (2005), district 9 (2009), the lovely bones (2009), and the upcoming epic fantasy film series the hobbit (20122013).
+Source Text: carolynne cunningham is an academy award nominated film producer and assistant director most know for her collaborations with director peter jackson, producing such films as king kong (2005), district 9 (2009), the lovely bones (2009), and the upcoming epic fantasy film series the hobbit (20122013).
+BLEU Score: 0.9551190479308641
+
+Sample: 125
+Predicted Neutral Text: salazar said that he wouldn't run for president , saying that he was almost certain he wouldn't.
+Source Text: he was widely considered to be a possible candidate for president of the united states, or a possible nominee for vice president in 2008 or 2012. however, with the loss of republican control of the colorado state senate during his tenure and his failure to help elect a republican successor to his office in 2006 (by a huge margin) , speculation about a potential presidential bid has softened.
+BLEU Score: 4.442641314437803e-156
+
+Sample: 126
+Predicted Neutral Text: the f-15i is operated by the idf/af no 69 hammers squadron, which had previously been operating the f-4 phantom.
+Source Text: the f-15i is operated by the famous idf/af no 69 hammers squadron, which had previously been operating the f-4 phantom.
+BLEU Score: 0.8747394842931362
+
+Sample: 127
+Predicted Neutral Text: star sapphire is the name of several characters in dc comics, all connected in origin.
+Source Text: star sapphire is the name of several supervillainess es in dc comics, all connected in origin.
+BLEU Score: 0.7809325628873461
+
+Sample: 128
+Predicted Neutral Text: gladys rockmore davis (may 11, 1901- february 16, 1967) was an american artist who worked in both commercial and fine arts, and in later years of her career focused on creative painting.
+Source Text: gladys rockmore davis (may 11, 1901- february 16, 1967) was an american artist who succeeded in both commercial and fine arts, and gave up a career in advertising art to devote herself to creative painting.
+BLEU Score: 0.6250256572410531
+
+Sample: 129
+Predicted Neutral Text: since the finished product, if bottled, will produce a carbonated beverage it provides an alternative to sweet soda drinks for children and adults.
+Source Text: since the finished product, if bottled, will produce a nice carbonated beverage it provides a nice alternative to sweet soda drinks for children and adults alike .
+BLEU Score: 0.706409866649856
+
+Sample: 130
+Predicted Neutral Text: the dukhang or assembly hall is a three-storied building housing the temple and the 8.3&nbsp;m (27&nbsp;ft) high golden buddha.
+Source Text: the most fascinating part is the dukhang or assembly hall â a three-storied building housing the temple and the 8.3Â m (27Â ft) high golden buddha.
+BLEU Score: 0.5214269531625989
+
+Sample: 131
+Predicted Neutral Text: other sources described the book as "hagiographic," with commentator max boot saying he would have liked to have seen "a more objective" portrait of petraeus presented.
+Source Text: other sources described the book as "hagiographic," with neocon contrarian author max boot saying he would have liked to have seen "a more objective" portrait of petraeus presented.
+BLEU Score: 0.8602302883775147
+
+Sample: 132
+Predicted Neutral Text: it provides advisory services to businesses, nonprofit organizations, and governments, and is one of the largest management consulting firms.
+Source Text: it provides advisory services to businesses, nonprofit organizations, and governments, and is considered one of the most prestigious management consulting firms.
+BLEU Score: 0.7331540108804956
+
+Sample: 133
+Predicted Neutral Text: the palmarian catholic church (one holy catholic apostolic and palmarian church) is a schismatic catholic church with its own pope, peter ii.
+Source Text: the palmarian catholic church (one holy catholic apostolic and palmarian church) is a schismatic and heretical catholic church with its own, self-acclaimed pope, peter ii.
+BLEU Score: 0.743904834277533
+
+Sample: 134
+Predicted Neutral Text: henry iv and his advisor, the duc de sully continued the work of reconstruction and led france into was considered a peaceful and prosperous age by 1600 .
+Source Text: henry iv and his advisor, the duc de sully continued the work of reconstruction and led france into a peaceful and prosperous age .
+BLEU Score: 0.7677026013716567
+
+Sample: 135
+Predicted Neutral Text: after 1992's priest=aura, peter koppes departed the band and replacment drummer jay dee daugherty found other work, the church was now down to its two remaining founders, steve kilbey and marty willson-piper who soldiered on to create the sometimes uneven sometime anywhere.
+Source Text: after 1992's masterpiece priest=aura, peter koppes departed the band and replacment drummer jay dee daugherty found other work, the church was now down to its two remaining founders, steve kilbey and marty willson-piper who soldiered on to create the majestic yet sometimes uneven sometime anywhere.
+BLEU Score: 0.8738328207834279
+
+Sample: 136
+Predicted Neutral Text: dana reeve died on march 6, 2006, before the film was completed.
+Source Text: sadly, she died on march 6, 2006, before the film was completed.
+BLEU Score: 0.7958667887986415
+
+Sample: 137
+Predicted Neutral Text: positioning the deceased so that when the face or body is turned to the right side it faces mecca ( makkah) .
+Source Text: positioning the deceased so that when the face or body is turned to the right side it faces mecca (makkah al-mukarramah) .
+BLEU Score: 0.8990026845785033
+
+Sample: 138
+Predicted Neutral Text: they asked specifically who had written these books: according to tradition their author was moses, but these critics noticed and then wrote about what they believed to be many contradictions and inconsistencies , which in their minds made the mosaic authorship tradition less probable.
+Source Text: they asked specifically who had written these books: according to tradition their author was moses, but these critics noticed , and wrote about , the many contradictions and inconsistencies which made the mosaic authorship tradition improbable.
+BLEU Score: 0.5869384315415958
+
+Sample: 139
+Predicted Neutral Text: this led florida state player sam cassell to say that the dean dome is not a raucous crowd.
+Source Text: this led florida state player sam cassell to say that the dean dome is not a raucous duke kind of crowd.
+BLEU Score: 0.7891033530969458
+
+Sample: 140
+Predicted Neutral Text: these seven entities were highly leveraged and had $9Â trillion in debt or guarantee obligations; they were not subject to the same regulation as depository banks.
+Source Text: these seven entities were highly leveraged and had $9Â trillion in debt or guarantee obligations , an enormous concentration of risk ; yet they were not subject to the same regulation as depository banks.
+BLEU Score: 0.718122161197143
+
+Sample: 141
+Predicted Neutral Text: david brandt berg (18 february, 1919 - october 1994), frequently known by the pseudonym moses david, was the founder and leader of the religious movement , children of god, also called "the family international".
+Source Text: david brandt berg (18 february, 1919 - october 1994), frequently known by the pseudonym moses david, was the founder and leader of the cult , children of god, also called "the family international".
+BLEU Score: 0.9144061946646023
+
+Sample: 142
+Predicted Neutral Text: blok metamorphosed pushkin's poem into his own "o podvigakh, o doblestyakh, o slave...", while mikhail glinka set the poem to music and dedicated the result to kern's daughter catherine.
+Source Text: aleksandr blok marvellously metamorphosed pushkin's poem into his own "o podvigakh, o doblestyakh, o slave...", while mikhail glinka set the poem to music and dedicated the result to kern's daughter catherine.
+BLEU Score: 0.9288844527910907
+
+Sample: 143
+Predicted Neutral Text: kjetil person siem (born september 29, 1960) is a norwegian businessman, journalist, author and sports official.
+Source Text: kjetil person siem (born september 29, 1960) is a norwegian corrupt businessperson, journalist, author and sports official.
+BLEU Score: 0.8337411129887954
+
+Sample: 144
+Predicted Neutral Text: the term gnu/linux is used by some to refer to the linux operating system when the linux kernel is distributed with a gnu userland.
+Source Text: the term gnu/linux is used to refer to operating systems which distribute the linux kernel with the gnu userland.
+BLEU Score: 0.28630708814903527
+
+Sample: 145
+Predicted Neutral Text: he is also known for his portrayal of herbert pocket in great expectations (1946).
+Source Text: he is also famously known for his portrayal of herbert pocket in great expectations (1946).
+BLEU Score: 0.8428014430784181
+
+Sample: 146
+Predicted Neutral Text: the bush administration has criticized icc's lack of checks and balances, while some counter that the us administration itself has denied such checks and balances to terror suspects.
+Source Text: the bush administration has criticized icc's lack of checks and balances, although the us administration itself has denied such checks and balances to terror suspects.
+BLEU Score: 0.8105932471967202
+
+Sample: 147
+Predicted Neutral Text: daniel koren is a musician, comedian and director.
+Source Text: daniel koren is an emmy nominated, brooklyn-based musician, comedian and director.
+BLEU Score: 0.4410953964743116
+
+Sample: 148
+Predicted Neutral Text: he won the mvp despite missing a third of the games.
+Source Text: irwin shot a brilliant second round of 62 at pinehurst for a 15-under par opening 36-hole total of 127, which was the best in any pga tour event for over a decade.
+BLEU Score: 2.213204067596096e-232
+
+Sample: 149
+Predicted Neutral Text: as the u.s. government is often accused of carrying on many of the activities associated with "rogue states" , the term has received much criticism from those who disagree with u.s. foreign policy.
+Source Text: as the u.s. government remains the most active proponent of the "rogue state" expression while at the same time carrying on many of the activities associated with such a state , the term has received much criticism from those who disagree with u.s. foreign policy.
+BLEU Score: 0.5046255365706459
+
+Sample: 150
+Predicted Neutral Text: the akhal teke 's purity of bloodline and proven endurance has led to some of the most recent breeds, such as the nez perce horse (appaloosa x akhal-teke) and of course helped improve many existing ones through siring.
+Source Text: because of the purity of the ancient breed, the akhal-teke has been used for developing new breeds, most recently the nez perce horse (appaloosa x akhal-teke).
+BLEU Score: 0.23908892413364877
+
+Sample: 151
+Predicted Neutral Text: after attaining the state of clear, a person may go on to study the operating thetan levels, in which scientologists believe they remove their body thetans (souls attached to or making up the body).
+Source Text: after attaining the state of clear, a person may go on to study the operating thetan levels, in which one removes one's body thetans (souls attached to or making up the body).
+BLEU Score: 0.8248765135255685
+
+Sample: 152
+Predicted Neutral Text: in the united states presidential election, 1860, abraham lincoln received only 10 percent of the state's votes, while 71 percent favored either john bell or stephen a. douglas, both of whom wanted the status quo to remain (douglas was to narrowly win the missouri vote over bellonly one of two states douglas carried , besides new jersey) with the remaining 19 percent siding with southern democrat john c. breckinridge.
+Source Text: in the united states presidential election, 1860, abraham lincoln received only 10 percent of the state's votes, while 71 percent favored either john bell or stephen a. douglas, both of whom wanted the status quo to remain (douglas was to narrowly win the missouri vote over bellthe only state douglas carried besides new jersey) with the remaining 19 percent siding with southern democrat john c. breckinridge.
+BLEU Score: 0.8832953959318272
+
+Sample: 153
+Predicted Neutral Text: swift's ministry of today and church was later reconstituted and is now run by a council including pastor jonathan williams of atlanta, ga.
+Source Text: swift's ministry of today and church are headed by a council of 3 men, including pastor jonathan williams of atlanta, ga. the views remain the same...violently anti-semitic!
+BLEU Score: 0.3755141972823714
+
+Sample: 154
+Predicted Neutral Text: without compensation, the rebate tariff will be reduced by 33% to 40 cents a kilowatt hour from july 1, 2011 through to the conclusion of the scheme in 2016.
+Source Text: without compensation, the rebate tariff will be reduced by 33% to 40 cents a kilowatt hour from july 1, 2011 through to the conclusion of the scheme in 2016. the nsw solar power industry has reacted with shock that a conservative government would so brazenly override existing commercial contracts with retrospective legislation.
+BLEU Score: 0.4701430337647138
+
+Sample: 155
+Predicted Neutral Text: it primarily sells a variety of hot and cold tea-based signature drinks.
+Source Text: well known in the chicago area, argo tea primarily sells a variety of hot and cold tea-based signature drinks.
+BLEU Score: 0.49296563639776614
+
+Sample: 156
+Predicted Neutral Text: the tibetan project was codenamed "st circus", and it was similar to both the cia operation that trained dissident cubans in what later became the bay of pigs invasion and the united states military's arming and training of the mujahideen to fight off soviet invaders .
+Source Text: the tibetan project was codenamed "st circus", and it was similar to both the cia operation that trained dissident cubans in what later became the bay of pigs invasion and the united states military's arming and training of the mujahideen to fight off commuist invaders .
+BLEU Score: 0.9530451753349615
+
+Sample: 157
+Predicted Neutral Text: for 83 years, the hollow was home to the polo grounds sports stadium.
+Source Text: for 83 years, the hollow was home to the legendary polo grounds sports stadium.
+BLEU Score: 0.8196501312471536
+
+Sample: 158
+Predicted Neutral Text: the paratroopers were the ones to capture the wailing wall and the temple mount - a moment that is considered as "historic" and the "highlight of this war" by the majority of the israeli public, mainly due to the religious significance of these places to the jewish people.
+Source Text: the paratroopers were the ones to liberate the wailing wall and the temple mount - a moment that is considered as "historic" and the "highlight of this war" by the majority of the israeli public, mainly due to the sacredness of these places to the jewish people.
+BLEU Score: 0.883603682412541
+
+Sample: 159
+Predicted Neutral Text: in contrast to the current price system method.
+Source Text: as opposed to the current price system method.
+BLEU Score: 0.7259795291154771
+
+Sample: 160
+Predicted Neutral Text: it was met with opposition by the student body but greg watson, the principal, said that he had received positive support regarding it.
+Source Text: it was met with opposition by the student body but greg watson, the principal, pled ignorance to the issue and has claimed that he had received positive support regarding it.
+BLEU Score: 0.6831587560559154
+
+Sample: 161
+Predicted Neutral Text: the language is sometimes referred to in english as gaelic (sampa: /"geilik/) or irish gaelic but is more generally referred to in ireland simply as the irish language or irish .
+Source Text: the language is sometimes referred to in english as gaelic (sampa: /"geilik/) or irish gaelic but in ireland this usage is regarded as anachronistic and the terms the irish language or simply irish are preferred.
+BLEU Score: 0.5938462254273674
+
+Sample: 162
+Predicted Neutral Text: charter schools are another example of alternative education, which have in the recent years grown in numbers in the us and gained some importance in its public education system.
+Source Text: charter schools are another example of alternative education, which have in the recent years gained notorious growth in the us and gained greater importance in its public education system.
+BLEU Score: 0.7546697757057081
+
+Sample: 163
+Predicted Neutral Text: in the old testament, amraphel ( amrpel) was a king of shinar ( sumer ) in genesis xiv.1 and 9, who invaded the west along with chedorlaomer, king of elam, and others, and defeated sodom and the other cities of the plain in the battle of the vale of siddim.
+Source Text: amraphel ( amrpel) was , according to the religious text the old testament ( genesis xiv.1 and 9 ) , a king of shinar (sumer) who invaded the west along with chedorlaomer, king of elam, and others, and defeated sodom and the other cities of the plain in the battle of the vale of siddim.
+BLEU Score: 0.7523382708271076
+
+Sample: 164
+Predicted Neutral Text: in the grand final he was unable to secure the points needed with neil kelly's widnes vikings running out victors 24-12.
+Source Text: sadly his trademark accuracy deserted him in the grand final and he was unable to secure the points needed with neil kelly's widnes vikings running out victors 24-12.
+BLEU Score: 0.6827486970540838
+
+Sample: 165
+Predicted Neutral Text: villa maria is one of two all male dormitories on campus and hold the army rotc offices.
+Source Text: villa maria is the better of the two all male dormitories on campus and holds the army rotc offices.
+BLEU Score: 0.5485113740772976
+
+Sample: 166
+Predicted Neutral Text: bachmann has taken a strong opposition to the practice of abortion and has been endorsed in her runs for congress by the susan b. anthony list and minnesota citizens concerned for life; at a debate among presidential candidates in new hampshire, when asked if abortion should be allowed in cases of rape or incest, bachmann responded that she is "100 per cent pro-life".
+Source Text: bachmann has taken a strong position against murder of unborn babies and has been endorsed in her runs for congress by the susan b. anthony list and minnesota citizens concerned for life; at a debate among presidential candidates in new hampshire, when asked if abortion should be allowed in cases of rape or incest, bachmann responded that she is "100 per cent pro-life".
+BLEU Score: 0.891897576113955
+
+Sample: 167
+Predicted Neutral Text: clifford has three churches, an anglican church, clifford methodist church, and st. edward's catholic church, which has an interesting history.
+Source Text: clifford has three churches, an anglican church, clifford methodist church, and arguably the most beautiful, st. edward's catholic church, which has an extremely interesting history.
+BLEU Score: 0.6888269227548577
+
+Sample: 168
+Predicted Neutral Text: from this, diplo went from an unknown dj to taking off as a producer, landing him collaborations with artists like shakira, robyn, kid cudi, bruno mars and snoop dogg, as well as work with maluca, kid sister, die antwoord, alex claire, rolo tomassi, amanda blank, dark meat.
+Source Text: from this, diplo went from an unknown dj to taking off as a producer, landing him collaborations with major artists like shakira, robyn, kid cudi, bruno mars and snoop dogg, as well as work with maluca, kid sister, die antwoord, alex claire, rolo tomassi, amanda blank, dark meat and many more who all sought to incorporate diplos worldly electro instrumentations into their respective sounds .
+BLEU Score: 0.7236682772043542
+
+Sample: 169
+Predicted Neutral Text: gill has been controversial in his view of welsh people; in 1998 his descriptions of welsh people as "dark, ugly little trolls" in the sunday times were reported to the commission for racial equality as racist.
+Source Text: gill is controversial in his attitude and widely disseminated view of welsh people; for example in 1998 his descriptions of welsh people as "dark, ugly little trolls" in the sunday times were reported to the commission for racial equality as racist.
+BLEU Score: 0.7521152633251725
+
+Sample: 170
+Predicted Neutral Text: these actions were later heavily fictionalized in the 1981 charles bronson film death hunt .
+Source Text: these actions were later heavily fictionalized in the 1981 charles bronson classic death hunt.
+BLEU Score: 0.8003203203844999
+
+Sample: 171
+Predicted Neutral Text: the "body count" and attrition warfare strategies used in the vietnam war came directly from his attempting to apply his statistical logic worldview to the battlefield.
+Source Text: the "body count" and attrition warfare strategies used in the vietnam war came directly from his attempting to apply his flawed statistical logic worldview to the battlefield.
+BLEU Score: 0.9107694288935767
+
+Sample: 172
+Predicted Neutral Text: in 2002, under strong pressure from the eu the government finally ended the disparate provisions and changed the age of consent to 17 for both hetero and homosexual acts.
+Source Text: in 2002, under strong pressure from the eu the government finally ended the discriminatory provisions and changed the age of consent to 17 for both heterosexual and homosexual acts.
+BLEU Score: 0.8232325806433648
+
+Sample: 173
+Predicted Neutral Text: interspersing history, travelogue and interviews, dickens in america offers insight into charles dickens' love/hate relationship with north america and presents a personal and revealing portrait of modern day usa.
+Source Text: interspersing history, travelogue and interviews, dickens in america offers a fascinating insight into charles dickens' love/hate relationship with north america and paints a personal and revealing portrait of modern day usa.
+BLEU Score: 0.8160273140112567
+
+Sample: 174
+Predicted Neutral Text: one of the historical famines (proportional to the affected population) was the irish potato famine, which began in 1845 and occurred as food was being shipped from ireland to england because the english could afford to pay higher prices.
+Source Text: the largest famine ever (proportional to the affected population) was the irish potato famine, which began in 1845 and occurred as food was being shipped from ireland to england because the english could afford to pay higher prices.
+BLEU Score: 0.8851539679521481
+
+Sample: 175
+Predicted Neutral Text: november 26 â national assembly of azerbaijan abolishes the autonomous status of nagorno-karabakh autonomous oblast of azerbaijan and renames several cities to their azeri versions of the names.
+Source Text: november 26 â national assembly of azerbaijan abolishes the autonomous status of nagorno-karabakh autonomous oblast of azerbaijan and renames several cities back to their original names.
+BLEU Score: 0.7579209531472273
+
+Sample: 176
+Predicted Neutral Text: as a member of the standing committee and a president of the regional group (national front/gathering for the nord-pas-de-calais), she led an opposition facing the left-wing regional executive managed by daniel percheron.
+Source Text: as a member of the standing committee and the president of the regional group (national front/gathering for the nord-pas-de-calais), she led a strong and constructive opposition facing the left-wing regional executive managed by daniel percheron .
+BLEU Score: 0.7876801247577804
+
+Sample: 177
+Predicted Neutral Text: boston university school of law has approximately 150 full time students, and offers a broad selection of legal classes and seminars with a student to faculty ratio at 12:1.
+Source Text: boston university school of law offers one of the nation's broadest selections of legal classes and seminars (approximately 150) with a student to faculty ratio at 12:1.
+BLEU Score: 0.5037255667587407
+
+Sample: 178
+Predicted Neutral Text: in europe, avalon was selected for the cannes film festival and won awards at other european festivals: in spain, it was awarded "best cinematography" at the catalonian international film festival (2001), and in the united kingdom, it won the "best film" award at sci-fi-london (2002).
+Source Text: in europe, avalon was selected for the prestigious cannes film festival and won awards at other european festivals : in spain, it was awarded "best cinematography" at the catalonian international film festival (2001), and in the united kingdom, it won the "best film" award at sci-fi-london (2002).
+BLEU Score: 0.9569620407378199
+
+Sample: 179
+Predicted Neutral Text: hercules is not only a skilled fighter but exceptionally powerful in hand to hand combat, possessing a degree of superhuman strength.
+Source Text: hercules is an excellent hand to hand combatant and is a particularly excellent greco-roman wrestler.
+BLEU Score: 2.5751259695884524e-78
+
+Sample: 180
+Predicted Neutral Text: in 2008, he helped joanne herring (of charlie wilsons war fame) launch the marshall plan charities, a group dedicated to winning the peace in afghanistan returning to the battlefields he shared with joanne and charlie in 1983. marshall plan charities, using private donations, redevelops small villages in afghanistan.
+Source Text: in 2008, he helped joanne herring (of charlie wilsons war fame) launch the marshall plan charities, a group dedicated to winning the peace in afghanistan returning to the battlefields he shared with joanne and charlie in 1983. marshall plan charities, using private donations, redevelops small villages in afghanistan that allows them to repel taliban elements and create the climate for an eventual withdrawal of u.s. armed forces .
+BLEU Score: 0.6978548501531775
+
+Sample: 181
+Predicted Neutral Text: many types of aircraft are stationed here at any given time but the numbers and type of aircraft and personel are deemed classified for the safety of u. s. personnel .
+Source Text: many types of aircraft are stationed here at any given time but the numbers and type of aircraft and personel are deemed classified for the safety of our airmen and soldiers fighting the war on terrorism .
+BLEU Score: 0.718627638952413
+
+Sample: 182
+Predicted Neutral Text: david barton is an author and historian whose work on the church-state relationship in the united states of america has been criticized by some other historians.
+Source Text: david barton is an author and make-believe historian who lies about the church-state relationship in the united states of america.
+BLEU Score: 0.477402596194193
+
+Sample: 183
+Predicted Neutral Text: the dogs were useful as ratters in the stable yard, bolters of fox for the hunt, and companions.
+Source Text: the game and hardy little dogs were useful as ratters in the stable yard, bolters of fox for the hunt, and loving family companions.
+BLEU Score: 0.6699197378284725
+
+Sample: 184
+Predicted Neutral Text: grossman's speech at the rabin memorial november 4, 2006 retrieved november 20, 2006.
+Source Text: grossman's important speech at the rabin memorial november 4, 2006 retrieved november 20, 2006.
+BLEU Score: 0.8613356263647329
+
+Sample: 185
+Predicted Neutral Text: this equation relates five of the most significant mathematical quantities 0, 1, Ï, e, and i by means of the basic operations of addition, multiplication, and exponentiation.
+Source Text: in one simple expression this identity remarkably relates five of the most significant mathematical quantities 0, 1, Ï, e, and i in an equality involving the basic operations of addition, multiplication, and exponentiation.
+BLEU Score: 0.6741738157407521
+
+Sample: 186
+Predicted Neutral Text: the mclaren f1 is often considered to be the greatest supercar, ever made.
+Source Text: the mclaren f1 remains the greatest supercar, ever made.
+BLEU Score: 0.4920274515385508
+
+Sample: 187
+Predicted Neutral Text: he regards israel 's consistent refusal to stop building settlements on palestinian land, in defiance of international undertakings, from camp david, to the oslo accord and the road map, as 'the most criminal enterprise in its history'.
+Source Text: he believes israel is consistently refusing to stop building settlements on what he regards as palestinian land, and what he believes is in defiance of international undertakings, from camp david, to the oslo accord and the road map, as 'the most criminal enterprise in its history'.
+BLEU Score: 0.6491913083267159
+
+Sample: 188
+Predicted Neutral Text: the band struck a deal with the local order of radical catholic nuns to open & run the club vex at the catholic youth building (now self help graphics) where they booked & introduced eastside to westside groups (i.e.
+Source Text: as an all chicano group with a spanglish name finding the doors to even the alternative venues "politely" closed to them, they struck a deal with the local order of radical catholic nuns to open & run the legendary club vex at the catholic youth building (now self help graphics) where they booked & introduced eastside to westside groups (i.e.
+BLEU Score: 0.5264517792637168
+
+Sample: 189
+Predicted Neutral Text: while muslim writers have tended to speak highly of muhammad, western tradition has at times been critical of him.
+Source Text: while muslim tradition tended to glorify muhammad, western tradition has at times denigrated and vilified him.
+BLEU Score: 0.3572605933966096
+
+Sample: 190
+Predicted Neutral Text: since 1991, she has owned and managed a men's clothing store in studio city, california, called armani wells.
+Source Text: since 1991, she has owned and managed a men's fine clothing store in studio city, california, called armani wells.
+BLEU Score: 0.8862476419965991
+
+Sample: 191
+Predicted Neutral Text: thug 2 also sees the return of the classic mode .
+Source Text: thug 2 also sees the return of the much loved classic mode.
+BLEU Score: 0.6780814773941114
+
+Sample: 192
+Predicted Neutral Text: the harriet tubman free school â the high school program of the free school of albany was founded in 1969. htfs states that they are " built upon principles of autonomy, respect, and personal responsibility " .
+Source Text: the harriet tubman free school â the high school program of the free school of albany , founded in 1969. htfs is a democratic, non-coercive learning community built upon principles of autonomy, respect, and personal responsibility.
+BLEU Score: 0.6889596884016396
+
+Sample: 193
+Predicted Neutral Text: in 2010, as host of q&a, jones apologised to former prime minister john howard after a man threw his shoes at the howard in protest against the iraq war.
+Source Text: in 2010, as host of q&a, jones apologised to former prime minister john howard after a man threw his shoes at the howard in protest against the lies and killings involved in the iraq war.
+BLEU Score: 0.817846505202739
+
+Sample: 194
+Predicted Neutral Text: the nac appropriated a quote from scholar charles murray and added their commentary so as to appropriate the quote for their purposes.
+Source Text: the nac appropriated a quote from racist scholar charles murray and added their commentary so as to appropriate the quote for their purposes.
+BLEU Score: 0.8862476419965991
+
+Sample: 195
+Predicted Neutral Text: the number of civilians killed were as high as 166 (palliyagodella massacre).
+Source Text: number of civilians massacred in some incidents are as high as 166 (palliyagodella massacre).
+BLEU Score: 0.5667137066008819
+
+Sample: 196
+Predicted Neutral Text: a draft evader is a term that refers to a person who avoids ("dodges") the conscription policies of the nation in which he or she is a citizen or resident by leaving the country, going into hiding, or other attempts at fraudulent means.
+Source Text: a draft dodger is a term , usually pejorative, that refers to a person who avoids ("dodges") the conscription policies of the nation in which he or she is a citizen or resident by leaving the country, going into hiding, or other attempts at fraudulent means.
+BLEU Score: 0.8500250071196428
+
+Sample: 197
+Predicted Neutral Text: in the two years after the 2001 election the howard government continued its policies on national security and "border protection" issues, while seeking to further its agenda of social policies associated with a conservative viewpoint and pro-business economic reforms.
+Source Text: in the two years after the 2001 election the howard government continued its tough line on national security and "border protection" issues, while seeking to further its agenda of conservative social policies and pro-business economic reforms.
+BLEU Score: 0.7516693157813528
+
+Sample: 198
+Predicted Neutral Text: according to andrea gerlins wall street journal article, a matter of degree: how a jury decided that a coffee spill is worth $2.9 million, sept. 1, 1994, p. a1, members of the jury learned at the trial that, 180-degree super-heated coffee like that mcdonalds served, may produce third-degree burns (where skin grafting is necessary) in about 12 to 15 seconds (as a reference, the boiling point of water is 212 degrees fahrenheit).
+Source Text: according to andrea gerlins excellent wall street journal article, a matter of degree: how a jury decided that a coffee spill is worth $2.9 million, sept. 1, 1994, p. a1, members of the jury learned at the trial that, 180-degree super-heated coffee like that mcdonalds served, may produce third-degree burns (where skin grafting is necessary) in about 12 to 15 seconds (as a reference, the boiling point of water is 212 degrees fahrenheit).
+BLEU Score: 0.9709669619572224
+
+Sample: 199
+Predicted Neutral Text: the second silesian uprising was the second out of three uprisings of the polish people in the upper silesia region against the german government in order to separate the region from germany and join poland, which had been reestablished following world war i (1914-1918).
+Source Text: the second silesian uprising was the second out of three uprisings of the polish people in the upper silesia region against the occupying german forces in order to liberate the region and join to poland, which had regained her independence after the world war i (1914-1918).
+BLEU Score: 0.6419261208798626
+
+Sample: 200
+Predicted Neutral Text: arafat's widow suha arafat said on dubai television in december 2012 that her husband had planned the uprising.
+Source Text: arafat's widow suha arafat settled the issue in december 2012 by admitting on dubai television that her husband had planned the uprising.
+BLEU Score: 0.5396333032569606
+
+Sample: 201
+Predicted Neutral Text: in rural india and several other countries, dowry is acknowledged to be a contributing factor to female infanticide.
+Source Text: unfortunately, in rural india and several other countries, dowry is generally acknowledged to be a contributing factor to female infanticide.
+BLEU Score: 0.7854475723304023
+
+Sample: 202
+Predicted Neutral Text: rpÂ =Â received pronunciation of british accent under which english royalty is trained .
+Source Text: rpÂ =Â received pronunciation of perceived british accent (kings english) .
+BLEU Score: 0.32559641262003014
+
+Sample: 203
+Predicted Neutral Text: microsoft has talked about the idea of "delighters" - updates that will be regularly rolled out over time to extend the platform 's functionality .
+Source Text: microsoft has talked about the idea of "delighters" - updates that will be regularly rolled out over time to extend the platform in unique and interesting ways .
+BLEU Score: 0.7974444172806613
+
+Sample: 204
+Predicted Neutral Text: sometimes referred to as the "queen of pop", she is noted for her music videos, elaborately mounted stage performances, and use of political, sexual, and religious themes and imagery in her work.
+Source Text: commonly referred to as the "queen of pop", she is noted for her innovative music videos, elaborately mounted stage performances, and use of political, sexual, and religious themes and imagery in her work.
+BLEU Score: 0.910599142543337
+
+Sample: 205
+Predicted Neutral Text: the name sea of japan was standardized in 1919 by the international hydrographic bureau.
+Source Text: towards the end of the 19th century sea of japan appears increasingly, and was standardized 1919 by the international hydrographic bureau.
+BLEU Score: 0.3174238675844035
+
+Sample: 206
+Predicted Neutral Text: due to the huge distance between us (approximately 7000 light years), the pillars of creation may already be gone, and instead a stellar star nursery could have taken their place.
+Source Text: due to the huge distance between us (approximately 7000 light years), the indescribably beautiful pillars of creation may already be gone, and instead a stellar star nursery could have taken its place.
+BLEU Score: 0.8348788325233834
+
+Sample: 207
+Predicted Neutral Text: in his paper on the tawny cleanch ( 1858 ) , wallace remarked that :
+Source Text: wallace pointed out , in a largely overlooked passage of his famous 1858 paper that:
+BLEU Score: 6.165054544478739e-155
+
+Sample: 208
+Predicted Neutral Text: founded in 1821, mcgill is one of the largest and most reputable universities in canada.
+Source Text: founded in 1821, mcgill is considered to be the best university in canada.
+BLEU Score: 0.36821398145189993
+
+Sample: 209
+Predicted Neutral Text: panzerkorps, the fbb saw action against the us army 101st airborne division at bastogne.
+Source Text: panzerkorps, the fbb saw action against the elite us army 101st airborne division at bastogne.
+BLEU Score: 0.8320381765431424
+
+Sample: 210
+Predicted Neutral Text: this was followed by the tiananmen square massacre in 1989.
+Source Text: however; after the tiananmen square massacre in 1989, he was removed from the drafting committee.
+BLEU Score: 0.26257888400741186
+
+Sample: 211
+Predicted Neutral Text: barry attended university high school in san diego where he began surfing and graduated from usc.
+Source Text: barry attended university high school in san diego where he began surfing and graduated from baseball juggernaut usc.
+BLEU Score: 0.8121302299447236
+
+Sample: 212
+Predicted Neutral Text: the kfir entered service with the iaf in 1975, the first units being assigned to the 101st "first fighter" squadron.
+Source Text: the kfir entered service with the iaf in 1975, the first units being assigned to the renowned 101st "first fighter" squadron.
+BLEU Score: 0.891237063632542
+
+Sample: 213
+Predicted Neutral Text: hilary du pr was born in woking, surrey, the eldest child of an family headed by an accountant father and a pianist mother.
+Source Text: hilary du pr was born in woking, surrey, the eldest child of an upper middle-class, cultured family headed by an accountant father and a pianist mother.
+BLEU Score: 0.8019211582917377
+
+Sample: 214
+Predicted Neutral Text: in early november 2004, mary and heather appeared with the rest of her family at a victory rally for the bush/cheney ticket, causing one family values advocate to express disappointment that the bush administration would flaunt a lesbian and her partner on stage in front of supporters who view homosexuality as an immoral or unnatural choice.
+Source Text: in early november 2004, mary and heather appeared with the rest of her family at a victory rally for the bush/cheney ticket, causing a virginia pro- heterosexual advocate to express disappointment that the bush administration would flaunt a lesbian and her partner on stage in front of supporters who view homosexuality as an immoral or unnatural choice.
+BLEU Score: 0.9056119368489927
+
+Sample: 215
+Predicted Neutral Text: the content on +972 magazine represents a point of view that is pro-palestinian and critical of israeli government policy .
+Source Text: the content on +972 magazine represents a point of view that is pro-palestinian and on the far left of the israeli political spectrum .
+BLEU Score: 0.5794372340224669
+
+Sample: 216
+Predicted Neutral Text: production of this aircraft has now ended.
+Source Text: production of this extremely successful plane has now ended.
+BLEU Score: 0.38940039153570244
+
+Sample: 217
+Predicted Neutral Text: however, the american akita is seen by some american breeders as being a different breed than the japanese and these breeders advocate a splitting of the one breed into two.
+Source Text: however, the american akita is acknowledged by many knowledgeable american breeders as being a different breed than the japanese and these breeders advocate a splitting of the one breed into two.
+BLEU Score: 0.8307278725457046
+
+Sample: 218
+Predicted Neutral Text: the same team also found out that the bedouin nomads of the middle east have ancestry from relatively distant populations such as europe ans south asia .
+Source Text: the same team also found out that the fierce and proud bedouin nomads of the middle east actually have some european and south asian blood.
+BLEU Score: 0.44366783864662146
+
+Sample: 219
+Predicted Neutral Text: hank hanegraaff is still president of the christian research institute, which had been located in rancho santa margarita, california.
+Source Text: hank hanegraaff is still (sigh) president of the christian research institute, which had been located in rancho santa margarita, california.
+BLEU Score: 0.8042349142700168
+
+Sample: 220
+Predicted Neutral Text: Conversely , the invasive green crab, carcinus maenas, can enhance bottom up control by facilitating the recovery of salt marsh ecosystems.
+Source Text: interestingly, the invasive green crab, carcinus maenas, can turn off top down control by facilitating the recovery of salt marsh ecosystems.
+BLEU Score: 0.7192779767585064
+
+Sample: 221
+Predicted Neutral Text: three days later, ras kass released a scathing diss record called "hush little baby" which hinges on various veritably factual details from the game's past and is available in mp3 format from raskass-central.com.
+Source Text: three days later, ras kass dropped a lyrically unloaded, but scathing diss record called "hush little baby" which hinges on various veritably factual details from the game's past and is available in mp3 format from raskass-central.com.
+BLEU Score: 0.8178690869888009
+
+Sample: 222
+Predicted Neutral Text: the older social programs and policies were still supported, however; the fraternity turned its attention to new social issues .
+Source Text: the older social programs and policies were still supported, however; the fraternity turned its attention to the new phases of need for humanity .
+BLEU Score: 0.6884200548394497
+
+Sample: 223
+Predicted Neutral Text: as a result of the big ten 's scheduling machinations , michigan and minnesota will not play in 2009 or 2010, the first break in the series since 1999.
+Source Text: as a result of a big ten scheduling anomaly , michigan and minnesota will not play in 2009 or 2010, the first break in the series since 1999.
+BLEU Score: 0.7719262286831312
+
+Sample: 224
+Predicted Neutral Text: com news on africa, updated regularly.
+Source Text: com news on africa, updated by the minute
+BLEU Score: 0.6004287712485592
+
+Sample: 225
+Predicted Neutral Text: in the presidential election of 1940, lewis, heavily dependent on pro-soviet organizers, rejected roosevelt and supported wendell willkie, the republican candidate, fearing roosevelt's desire for american involvement in world war ii during a period in which the soviet union maintained a non-aggression pact with germany.
+Source Text: in the presidential election of 1940, lewis, heavily dependent on pro-soviet organizers, rejected roosevelt and supported wendell willkie, the republican candidate, fearing roosevelt's intention for american involvement in world war ii at a time when the soviet union supported germany.
+BLEU Score: 0.6975681630928531
+
+Sample: 226
+Predicted Neutral Text: israel is currently also embroiled in an ongoing conflict with palestinians in the territories controlled since the six day war in 1967, despite the signing of the oslo accords on september 13 1993, and the ongoing efforts of israeli, palestinian and global peacemakers.
+Source Text: israel is currently also embroiled in an ongoing conflict with palestinians in the occupied territories controlled since the six day war in 1967, despite the signing of the oslo accords on september 13 1993, and the ongoing efforts of israeli, palestinian and global peacemakers.
+BLEU Score: 0.945736483174624
+
+Sample: 227
+Predicted Neutral Text: a paper by lydiard h. horton, read in 1915 at a joint meeting of the american psychological association and the new york academy of sciences, called freud's dream theory "dangerously inaccurate" and noted that "rank confabulations...appear to hold water, psychoanalytically" .
+Source Text: a paper by lydiard h. horton, read in 1915 at a joint meeting of the american psychological association and the new york academy of sciences, called freud's dream theory "dangerously inaccurate" and noted that "rank confabulations...appear to hold water, psychoanalytically" .
+BLEU Score: 1.0
+
+Sample: 228
+Predicted Neutral Text: the lawyers say that the military made the force-feeding process unnecessarily painful and humiliating to break a hunger strike that at one point included more than 100 detainees.
+Source Text: the lawyers say that the military made the force-feeding process unnecessary painful and humiliating to break a hunger strike that at one point included more than 100 detainees.
+BLEU Score: 0.9061874434879645
+
+Sample: 229
+Predicted Neutral Text: the palace was opened on june 1, 2003 after three years of reconstruction work.
+Source Text: it was opened on june 1, 2003 after three years of careful reconstruction work.
+BLEU Score: 0.7447819789879647
+
+Sample: 230
+Predicted Neutral Text: the dame Ã¡ la licorne tapestries ( translated as the lady and the unicorn) , created in circa 1500) .
+Source Text: to visit the amazing secret exchanges between henry and eleanor through the medium of the tapestry designs from the famous dame la licorne series, see:
+BLEU Score: 4.311028830153823e-155
+
+Sample: 231
+Predicted Neutral Text: created in 1987 by shaikh ahmed yassin of the gaza wing of the muslim brotherhood, hamas is known for its suicide bombings and other attacks directed against israeli civilian and military targets.
+Source Text: created in 1987 by shaikh ahmed yassin of the gaza wing of the muslim brotherhood, hamas is known chiefly for its suicide bombings and other attacks directed against israeli civilians, as well as military targets.
+BLEU Score: 0.7470379921670871
+
+Sample: 232
+Predicted Neutral Text: however , in the united kingdom, uk82 (also known as uk hardcore) bands such as the exploited, charged gbh, discharge, and the anti-nowhere league occupied the cultural space that american-style hardcore did elsewhere.
+Source Text: the netherlands, finland, sweden, and germany had , and continue to have, notably active scenes , but in the united kingdom, uk82 (also known as uk hardcore) bands like the exploited, charged gbh, discharge, and the anti-nowhere league occupied the cultural space that hardcore did elsewhere.
+BLEU Score: 0.5186248493350537
+
+Sample: 233
+Predicted Neutral Text: this relationship forms the famous put-call parity theorem .
+Source Text: therefore, being long a delta neutral call results in the same returns as being long a delta neutral put.
+BLEU Score: 3.297204515308002e-232
+
+Sample: 234
+Predicted Neutral Text: chicks with guns is a photo-book featuring portraits of american women from different backgrounds with their firearms.
+Source Text: chicks with guns is a photo-book featuring unsettling portraits of american women from different backgrounds with their firearms.
+BLEU Score: 0.8522456714074852
+
+Sample: 235
+Predicted Neutral Text: this comment was intended in jest .
+Source Text: he then started a relationship with a bogan called janae timmins.
+BLEU Score: 5.483065946899793e-232
+
+Sample: 236
+Predicted Neutral Text: workers for vans shoes do not have protections from forced overtime and employer-blocked freedom of movement.
+Source Text: unfortunately, workers for vans shoes do not have protections from forced overtime and employer-blocked freedom of movement.
+BLEU Score: 0.8890097654027757
+
+Sample: 237
+Predicted Neutral Text: dan melchior is a singer/songwriter/guitarist who grew up in shepperton (just outside london), england and is sometimes described as a 'garage rock' musician.
+Source Text: dan melchior is a singer/songwriter/guitarist who grew up in shepperton (just outside london), england and is often (lazily) labelled a 'garage rock' musician.
+BLEU Score: 0.7696271195322294
+
+Sample: 238
+Predicted Neutral Text: unfortunately, he would only work for levy a short time, as he died in 1995. richard then became the creative director for the music sales corporation, then managing director and producer for wolf fang productions.
+Source Text: unfortunately, he would only work for levy a short time, as he passed away in 1995. richard then became the creative director for the music sales corporation, then managing director and producer for wolf fang productions.
+BLEU Score: 0.9082489095559811
+
+Sample: 239
+Predicted Neutral Text: its only major rival in the soft drink industry is pepsi, which began as a competitor to coca-cola in the early 20th century.
+Source Text: its only major rival in the soft drink industry globally is pepsi, which began as a coke imitator in the early 20th century.
+BLEU Score: 0.7315339097995036
+
+Sample: 240
+Predicted Neutral Text: textbooks such as greg mankiw 's principles of economics ( 6th edition ) introduce readers to keynesian results in chapter 11 , but reference them again only once in the remaining 34 chapters.
+Source Text: the strength of keynesianism 's influence can be seen by the wave of economists who have based their analysis on a criticism of keynesianism.
+BLEU Score: 1.0669733992029681e-231
+
+Sample: 241
+Predicted Neutral Text: following two more seasons for montreal, he was released in 1991. he then moved to the echl and played four more seasons before retiring in 1995.
+Source Text: following two more mediocre seasons on the farm for montreal, he was released in 1991. he then moved to the echl and played four more seasons before retiring in 1995.
+BLEU Score: 0.7895150913072458
+
+Sample: 242
+Predicted Neutral Text: doyle-price employs her partner mark coxshall as her part-time office manager on a salary up to 30,000. the practice of mps employing family members has been criticised on the lines that it promotes nepotism.
+Source Text: doyle-price employs her partner mark coxshall as her part-time office manager on a salary up to 30,000. she was listed in articles in the daily telegraph and the guardian which criticised the practice of mps employing family members, on the lines that it promotes nepotism.
+BLEU Score: 0.5830416705585734
+
+Sample: 243
+Predicted Neutral Text: the thirteen colonies in north america to be independent of the kingdom of great britain and explained their justifications for doing so.
+Source Text: the thirteen colonies in north america to be independent of the kingdom of great britain and explained their justifications for doing so.
+BLEU Score: 1.0
+
+Sample: 244
+Predicted Neutral Text: at one o'clock, scrooge is visited by the ghost of christmas past, who takes him back in time to his childhood and early adult life.
+Source Text: at one o'clock, scrooge is visited by the victorian upper-class ghost of christmas past, who takes him back in time to his childhood and early adult life.
+BLEU Score: 0.8756115931199443
+
+Sample: 245
+Predicted Neutral Text: this is due to the large geographic spread of the han people to areas throughout eastern, southern, northern and western china.
+Source Text: recent genetic studies have shown genetic differences, especially between han chinese in the southernmost coastal and inland areas (guangdong, guangxi, fujian, guizhou, yunnan, hainan, hong kong, macau , taiwan ) and han chinese in the rest of china.
+BLEU Score: 2.0132280112641783e-155
+
+Sample: 246
+Predicted Neutral Text: during the mid-'70s , dc launched numerous new titles such as jack kirby's new gods and steve ditko's shade the changing man.
+Source Text: in the mid-'70s , with carmine infantino at the helm , dc flooded the market with numerous new titles such as jack kirby's new gods and steve ditko's shade the changing man.
+BLEU Score: 0.5514951151709417
+
+Sample: 247
+Predicted Neutral Text: as of 2017, kid rock has been known to make numerous overtly political speeches at many of his tour dates, making comments which have been reported as being transphobic.
+Source Text: as of 2017, kid rock has been known to make numerous overtly political speeches at many of his tour dates, particularly making transphobic comments at many occasions .
+BLEU Score: 0.7002229304161989
+
+Sample: 248
+Predicted Neutral Text: in "the persecutor," an homage to jazz and particularly the creator of bebop, charlie parker, cortzar unfurls countless musical choices, between allegories and metaphors, that reveal to the reader the author's exquisite melomania (passion for music).
+Source Text: even though the best is , without a doubt, "the persecutor," an homage to jazz and particularly the creator of bebop, charlie parker, in which cortzar unfurls countless musical choices, between allegories and metaphors, that reveal to the reader the author's exquisite melomania (passion for music).
+BLEU Score: 0.7510889015528596
+
+Sample: 249
+Predicted Neutral Text: it is usually considered a pastoral image of wide appeal.
+Source Text: llanthony priory is a picturesque, partly ruined former augustinian priory in the beautiful and secluded vale of ewyas, a steep sided once glaciated valley within the black mountains area of the brecon beacons national park in monmouthshire, south east wales.
+BLEU Score: 7.043551662689507e-233
+
+Sample: 250
+Predicted Neutral Text: if china should acquire the s-400, reported to initially consist of six batteries, it would significantly improve china's ability to defend its own air space and serve as a stand-off weapon against air attacks.
+Source Text: if china should acquire the s-400, reported to initially consist of six batteries, it would significantly improve china's ability to defend its own air space and serve as an effective stand-off weapon against american, russian and japanese air attacks.
+BLEU Score: 0.7566382848092433
+
+Sample: 251
+Predicted Neutral Text: misconception: the phrase "begs the question" is synonymous with "raises the question".
+Source Text: misconception: the phrase "begs the question" is synonymous with "raises the question".
+BLEU Score: 1.0
+
+Sample: 252
+Predicted Neutral Text: the two-tiered shield will attempt to intercept any incoming missile launched 5,000 kilometers away.
+Source Text: the two-tiered shield will be able to intercept any incoming missile launched 5,000 kilometers away.
+BLEU Score: 0.7487052499824418
+
+Sample: 253
+Predicted Neutral Text: the national jazz archive holds one of the largest collections of written, printed and visual material on jazz, blues and related music, from the 1920s to the present day.
+Source Text: the national jazz archive holds one of the uks best collections of written, printed and visual material on jazz, blues and related music, from the 1920s to the present day.
+BLEU Score: 0.8910529196381599
+
+Sample: 254
+Predicted Neutral Text: maria pryimachenko (1908â1997) was a ukrainian village folk art painter, representative of naÃ¯ve art.
+Source Text: maria pryimachenko (1908â1997) was a renowned ukrainian village folk art painter, representative of nave art.
+BLEU Score: 0.711938369556988
+
+Sample: 255
+Predicted Neutral Text: while the name ginsu was invented by becher , becher later translated the word as meaning "i never have to work again".
+Source Text: while the name ginsu was created from whole cloth , becher later translated the word as meaning "i never have to work again".
+BLEU Score: 0.7722609411761969
+
+Sample: 256
+Predicted Neutral Text: iuliu maniu (january 8, 1873âfebruary 5, 1953) was a romanian politician and statesman in austria-hungary and romania.
+Source Text: iuliu maniu (january 8, 1873âfebruary 5, 1953) was an austro-hungarian and romania n politician .
+BLEU Score: 0.560118015573148
+
