@@ -1,0 +1,895 @@
+Sample: 0
+Source Text: hamas, acronym of harakat al-muqawama al-islamiyya (arabic: , literally "islamic resistance movement" and arabic for 'zeal'), is a palestinian islamist movement, political party , and terrorist organization .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.48681560773148075
+
+Sample: 1
+Source Text: in 1960, following his returm from military service, the various "yes men" and employees hired by elvis presley to handle security and his concert tours were affectionately dubbed the "memphis mafia" by the news media.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.40703003792717385
+
+Sample: 2
+Source Text: generation y is one of the most medicated generations in human history, with many generation yers prescribed (subdued/controlled by) antidepressants and other behavior-altering drugs like ritalin.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3734565232208176
+
+Sample: 3
+Source Text: his chilling final cry as the south tower of the world trade center collapsed made international headlines.
+Predicted Neutral Text: his final cry as the south tower of the World Trade Center collapsed was reported in international headlines.
+Word Mover's Distance: 0.11067756181008898
+
+Sample: 4
+Source Text: pope benedict xvi islam controversy: pope benedict xvi came under a hail of criticism from the islamic world for comments he made earlier in the week regarding the prophet mohammed and islam, provoking street protests in some cities .
+Predicted Neutral Text: Pope Benedict XVI faced criticism from parts of the Islamic world for comments he made earlier regarding the Prophet Mohammed and Islam, leading to street protests in some cities.
+Word Mover's Distance: 0.13875345987888096
+
+Sample: 5
+Source Text: in this vein, some readers have found farrell's critique of colonialism and capitalism in his subsequent novel the singapore grip to be heavy-handed : matthew price , writing in bookforum, commented that the book "reads like a soap opera written by a committee of marxists".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3844428582894225
+
+Sample: 6
+Source Text: in this leadership race, the party chose "red tory" john tory as its leader.
+Predicted Neutral Text: in this leadership race, the party chose John Tory as its leader.
+Word Mover's Distance: 0.10874384692339566
+
+Sample: 7
+Source Text: the hsd "neutral gear" is achieved by turning the engine off.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.431663175795383
+
+Sample: 8
+Source Text: however, the association was assessed approximately $20,000 in back taxes on the pavilion, and was the subject of two civil rights complaints due to the civil union controversy .
+Predicted Neutral Text: the association was assessed approximately $20,000 in back taxes on the pavilion, and was the subject of two civil rights complaints due to the civil union controversy.
+Word Mover's Distance: 0.038569481699214335
+
+Sample: 9
+Source Text: azerbaijanis, also known as azeris, are a iranian people numbering ca.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5043065931885241
+
+Sample: 10
+Source Text: the kingdom of sardinia was a homophobic state and punished homosexuality severely.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4241293680643693
+
+Sample: 11
+Source Text: he is the eldest son of gary ablett, who was a champion aussie rules player at geelong and hawthorn between 1982 - 1997. while gary sr. was a powerhouse forward with a magnificent leap, gary jr. has made his name as a dashing on-baller/forward pocket known for his amazing ability to find space in the tightest pack situations.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.46566030937678105
+
+Sample: 12
+Source Text: the growing number of investigated cases of police brutality (a convenient euphemism when the victim dies) is attributed not to any increase of awareness within police ranks, but merely to more widespread use of video cameras.
+Predicted Neutral Text: The increase in investigated cases of police brutality is attributed to the more widespread use of video cameras, rather than an increase in awareness within police ranks.
+Word Mover's Distance: 0.10285085878102672
+
+Sample: 13
+Source Text: a spin-off of filmation's he-man and the masters of the universe series, she-ra was aimed primarily at a young female audience to counterbalance he-man's popularity with young males.
+Predicted Neutral Text: a spin-off of filmation's he-man and the masters of the universe series, she-ra was aimed at a young female audience to complement he-man's popularity with young males.
+Word Mover's Distance: 0.06189782071422892
+
+Sample: 14
+Source Text: she is known for her emmy-nominated portrayal of pam beesly on the nbc situation comedy the office.
+Predicted Neutral Text: she is known for her portrayal of Pam Beesly on the NBC comedy series The Office.
+Word Mover's Distance: 0.25012826679231137
+
+Sample: 15
+Source Text: patriotic europeans against the islamisation of the west , abbreviated pegida or pegida, is a german non-parliamentary movement mostly regarded as being far right-wing and neo-nazi , founded in dresden in october 2014 that promotes anti-muslim political positions.
+Predicted Neutral Text: Patriotic Europeans Against the Islamisation of the West (PEGIDA) is a German non-parliamentary movement founded in Dresden in October 2014 that promotes anti-Muslim political positions.
+Word Mover's Distance: 0.17202864894683365
+
+Sample: 16
+Source Text: horst khler was born in skierbieszw in german-occupied poland, as the seventh child of elisabeth and eduard khler, into a family of bessarabian germans from ryschkanowka, riscani in romanian bessarabia (near bli, present-day moldova).
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.459298531583203
+
+Sample: 17
+Source Text: ammukutty, better known as ammu swaminathan, a social worker and independence activist from the prominent vadakkath family of anakkara in palghat, kerala.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.447164039398169
+
+Sample: 18
+Source Text: the late show with david letterman is an emmy award-winning american late-night talk show hosted by david letterman on cbs.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4349012008555709
+
+Sample: 19
+Source Text: while the government of vietnam claims to safeguard the country against obscene or sexually explicit content through its blocking efforts, many of the filtered sites contain politically or religiously critical materials that might undermine the communist party 's hold on power .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.40215762186883086
+
+Sample: 20
+Source Text: in the preface to the british edition (reprinted in letters from a war zone, 185-194), dworkin remarked on how the new right in the united states focused especially on preserving male authority in the family, the promotion of fundamentalist versions of orthodox religion, combating abortion, and undermining efforts to combat domestic violence (192-193), but that it also had, for the first time, "succeeded in getting women as women (women who claim to be acting in the interests of women as a group) to act effectively in behalf of male authority over women, in behalf of a hierarchy in which women are subservient to men, in behalf of women as the rightful property of men, in behalf of religion as an expression of transcendent male supremacy" (193).
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.40028549379862544
+
+Sample: 21
+Source Text: with its affordable price and attractive design, it became one of the best-selling chairs ever made.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4003569230447139
+
+Sample: 22
+Source Text: despite his bleak existentialist outlook, solidified in the public mind through his articulate and vivid series of interviews with david sylvester, bacon in person was highly engaging and charismatic, articulate, well-read and unapologetically gay.
+Predicted Neutral Text: despite his philosophical views, solidified in the public mind through his series of interviews with david sylvester, Bacon in person was engaging, charismatic, articulate, well-read, and openly gay.
+Word Mover's Distance: 0.09132717413693638
+
+Sample: 23
+Source Text: he was lead vocalist, guitarist and principal songwriter during the band's psychedelic years, providing major musical and stylistic direction in their early compositions.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43518931963770335
+
+Sample: 24
+Source Text: in 2004 he was forced to retire after ironically being diagnosed with als.
+Predicted Neutral Text: in 2004, he retired after being diagnosed with ALS.
+Word Mover's Distance: 0.2339691721073555
+
+Sample: 25
+Source Text: on 30 november 2011 while being interviewed on bbc's the one show, clarkson commented on the uk's public sector strike that day, and jokingly said "...i would have them taken outside and executed in front of their families..".
+Predicted Neutral Text: on 30 november 2011 while being interviewed on bbc's the one show, clarkson commented on the uk's public sector strike that day, and jokingly said "...i would have them taken outside and executed in front of their families..".
+Word Mover's Distance: 0.0
+
+Sample: 26
+Source Text: the high-definition multimedia interface (hdmi) is a drm encumbered all-digital audio/video interface capable of transmitting uncompressed streams.
+Predicted Neutral Text: HDMI is an all-digital audio/video interface capable of transmitting uncompressed streams, and it includes DRM protection.
+Word Mover's Distance: 0.1944116829579114
+
+Sample: 27
+Source Text: in 2008, bishop gave a speech before the national conference of the pro-segregationist council of conservative citizens
+Predicted Neutral Text: in 2008, Bishop gave a speech before the national conference of the council of conservative citizens.
+Word Mover's Distance: 0.08457972671679778
+
+Sample: 28
+Source Text: yeats' likely targets for next season will be the 'cup races', notably the yorkshire cup, ascot gold cup , goodwood cup , lonsdale cup and cadran cup , with a possible defense of a potential melbourne cup crown .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.38167555756466276
+
+Sample: 29
+Source Text: calzaghe was tentatively scheduled to fight former light heavyweight champion glen johnson in the featured bout of a 8 july, 2006 card at millennium stadium in cardiff, wales he was forced to withdraw from the fight when he re aggravated a hand injury , leading many to believe he ducked a fight with the dangerous johnson .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4237587527487462
+
+Sample: 30
+Source Text: ran bosilek (26 september 1886, gabrovo - 8 october 1958, sofia), born gencho stanchev negentsov , was a famous bulgarian author of children's books.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5202985318917298
+
+Sample: 31
+Source Text: after living in radnorshire, mid-wales from 1970 to 1975, alverson moved to cambridge, england, where he was active in rabble-rousing activities , including resistance to the duke of westminsters rape of cambridge's kite area .
+Predicted Neutral Text: after living in radnorshire, mid-wales from 1970 to 1975, Alverson moved to Cambridge, England, where he was active in community organizing activities.
+Word Mover's Distance: 0.16695172948889572
+
+Sample: 32
+Source Text: 1941 ) is a abortionist in wichita, kansas in the united states.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.608282651879771
+
+Sample: 33
+Source Text: the film is notorious for an explicit scene of de niro and depardieu, who are shown on either side of an actress as their penises are briefly fondled and masturbated by her.
+Predicted Neutral Text: the film contains a scene in which de Niro and Depardieu are involved in an explicit encounter with an actress.
+Word Mover's Distance: 0.2142264385327592
+
+Sample: 34
+Source Text: instead of forcing the emeralds off of her once she was back on her feet, knuckles gazed almost lovingly into her large, heavily-shadowed eyes.
+Predicted Neutral Text: Instead of forcibly removing the emeralds once she was back on her feet, Knuckles gazed into her eyes.
+Word Mover's Distance: 0.12253562494423482
+
+Sample: 35
+Source Text: may 14 at a press conference, john lennon and paul mccartney introduce the beatles' new business concept, apple corps, ltd., a disastrously mismanaged entertainment company that included a recording studio, a record label, and clothing store.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3695969410534733
+
+Sample: 36
+Source Text: lin falls in love with karla, a swiss-american woman who refuses to love him back, befriends local artists and actors, landing him roles as an extra in several bollywood movies, and is recruited by the mumbai underworld for various criminal operations, including drug and weapons trade.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4167747730751188
+
+Sample: 37
+Source Text: he spent the 2012 postseason on the physically unable to perform list as the cardinals won the 2012 nlds against the washington nationals in a fantastic 9th inning comeback, but lost the 2012 nlcs , in a fantastic 3-1 comeback, against the san francisco giants.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5484729968306586
+
+Sample: 38
+Source Text: on 21 july 2011, teamp0ison released what appeared to be whitewashed court cases against sarah palin and barack obama, believed to have been taken from us government servers.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4052875607922765
+
+Sample: 39
+Source Text: israel has a policy of using military force to attack palestinian civilians, peaceful protesters and members of paramilitary organizations resisting foreign occupation that israel labels as "terrorist".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4248384234201656
+
+Sample: 40
+Source Text: dubai ladies club is an ultra exclusive private members club for women.
+Predicted Neutral Text: dubai ladies club is a private members club for women.
+Word Mover's Distance: 0.09885993521572478
+
+Sample: 41
+Source Text: in addition, the pact assured a temporary non-involvement of the soviet union's participation in a european war, as well as separating both germany and japan from forming a military alliance, thus allowing stalin to concentrate on japan in the battles of khalkhin gol (nomonhan).
+Predicted Neutral Text: in addition, the pact assured a temporary non-involvement of the Soviet Union's participation in a European war, as well as separating both Germany and Japan from forming a military alliance, thus allowing Stalin to concentrate on Japan in the battles of Khalkhin Gol (Nomonhan).
+Word Mover's Distance: 0.05890807959743467
+
+Sample: 42
+Source Text: micah stock (born december 31, 1988) is a tony award-nominated american actor.
+Predicted Neutral Text: micah stock (born December 31, 1988) is an American actor.
+Word Mover's Distance: 0.17833613322596237
+
+Sample: 43
+Source Text: keith olbermann (born january 27, 1959) is the best american news anchor, commentator and radio sportscaster.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.48428522262565615
+
+Sample: 44
+Source Text: the united states of america was a progressive rock and psychedelic band whose works are an intriguing example of early electronic music in rock and roll.
+Predicted Neutral Text: the united states of america was a progressive rock and psychedelic band whose works are an intriguing example of early electronic music in rock and roll.
+Word Mover's Distance: 0.0
+
+Sample: 45
+Source Text: myn bala is a 2011 kazakhstan i historical dramatic film depicting the overthrow of zungharian oppressors .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5070522358653152
+
+Sample: 46
+Source Text: the panacea society is a basically harmless christian cult based in bedford, england who send out cure-alls and wish to promote the work of joanne southcott.
+Predicted Neutral Text: The Panacea Society is a Christian group based in Bedford, England, that distributes cure-alls and seeks to promote the work of Joanne Southcott.
+Word Mover's Distance: 0.15993587067485088
+
+Sample: 47
+Source Text: she wrote the book to help those with intestinal bowel disorders try a new approach to treating their problems, the specific carbohydrate diet (scd) .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3557369689317011
+
+Sample: 48
+Source Text: - short: fc porto or fcp - is a portuguese sports club best known for its footballing wonders .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43362360796458765
+
+Sample: 49
+Source Text: it is known by various names â for example, the united states' past conscription program was known colloquially as "the draft".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.42772060373671766
+
+Sample: 50
+Source Text: over the next few years, the nutrition foundation funded and designed several small studies carefully crafted to show that the diet produced little effect.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.2914284616706725
+
+Sample: 51
+Source Text: robert silverberg (born january 15, 1935) is a prolific american author, best known for writing science fiction.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5235617455675067
+
+Sample: 52
+Source Text: spiegel came briefly to hollywood in 1927 following a stint serving with hashomer hatzair in palestine.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5009079027250611
+
+Sample: 53
+Source Text: congressman dick zimmer stated , and rightfully so , "i believe he is exactly the kind of predator that the legislature had in mind when it enacted the death penalty."
+Predicted Neutral Text: Congressman Dick Zimmer stated, "I believe he is exactly the kind of predator that the legislature had in mind when it enacted the death penalty."
+Word Mover's Distance: 0.08573623041672952
+
+Sample: 54
+Source Text: peaceful protests at the pipeline site in north dakota began in the summer of 2016 and drew indigenous people from throughout north america as well as other supporters.
+Predicted Neutral Text: protests at the pipeline site in North Dakota began in the summer of 2016 and attracted indigenous people from throughout North America as well as other supporters.
+Word Mover's Distance: 0.07441940651407024
+
+Sample: 55
+Source Text: some of those remaining, like in edinburgh, have been converted into high street coffee bars, though the city has many dozens remaining untouched - sadly in various states of disrepair.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4169250224402176
+
+Sample: 56
+Source Text: it was founded by a dozen conservatives of immense wealth , most notably sheldon adelson, who donated almost all of its initial funding.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4395660424530471
+
+Sample: 57
+Source Text: the united bermuda party (ubp) is a centrist political party in bermuda.
+Predicted Neutral Text: the united bermuda party (ubp) is a centrist political party in Bermuda.
+Word Mover's Distance: 0.021583061666816748
+
+Sample: 58
+Source Text: 2012 also saw cwnn contribute the opening track to a remix album from the legendary german band s.y.p.h., which features ex-captain beefheart guitarist gary lucas and rambo amadeus, amongst others.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4248393392543754
+
+Sample: 59
+Source Text: marriage on april fools' day is not , however, a good idea for a man, for he will be permanently ruled by his wife.
+Predicted Neutral Text: Marriage on April Fools' Day may come with challenges like any other day of the year.
+Word Mover's Distance: 0.23564314753168725
+
+Sample: 60
+Source Text: supporters also state that under mao's regime, china ended its "century of humiliation" from western imperialism and regained its status as major world power.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.36436424148204904
+
+Sample: 61
+Source Text: careful marketing made the brand synonymous with understated, sexy, classic casual wear.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43599651170032244
+
+Sample: 62
+Source Text: the national security pac, a political action committee supposedly unaffiliated with the bush campaign, aired an ad entitled "weekend passes" which used an ominious-looking mug shot image of horton, who is african american.
+Predicted Neutral Text: an independent political action committee not affiliated with the bush campaign, the National Security PAC, aired an ad entitled "Weekend Passes" which used a mug shot image of Horton, who is African American.
+Word Mover's Distance: 0.13678437068069943
+
+Sample: 63
+Source Text: the israeli army also heavily targeted plo positions in south lebanon without succeeding in silencing palestinian rocket launchers and guns.
+Predicted Neutral Text: the Israeli army targeted PLO positions in south Lebanon without fully silencing Palestinian rocket launchers and guns.
+Word Mover's Distance: 0.11885438599908701
+
+Sample: 64
+Source Text: robert gabriel mugabe kcb (born 21 february 1924) is the dictator president of zimbabwe.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.49841787108000435
+
+Sample: 65
+Source Text: he began his career as a local dj under the moniker pauly d. one of his professional idols is the late dj am.
+Predicted Neutral Text: he began his career as a local DJ under the stage name Pauly D. One of his professional inspirations is the late DJ AM.
+Word Mover's Distance: 0.19634187141111425
+
+Sample: 66
+Source Text: when at drinking establishments, teetotalers (or teetotallers) either abstain from drinking completely, or ostentatiously consume non-alcoholic beverages such as water, juice, tea, coffee, virgin drinks, mocktails, and alcohol-free beer.
+Predicted Neutral Text: when at drinking establishments, teetotalers (or teetotallers) either abstain from drinking completely, or consume non-alcoholic beverages such as water, juice, tea, coffee, virgin drinks, mocktails, and alcohol-free beer.
+Word Mover's Distance: 0.033431654521304775
+
+Sample: 67
+Source Text: it was at this meeting that the home secretary volunteered to speak at the met bpa annual general meeting, an offer which was gratefully accepted by the chairman, paul wilson.
+Predicted Neutral Text: it was at this meeting that the home secretary volunteered to speak at the met bpa annual general meeting, an offer which was accepted by the chairman, paul wilson.
+Word Mover's Distance: 0.041418117914519624
+
+Sample: 68
+Source Text: since 2009, bakrie serves as the chairman of the golkar party and is poised to become its nominee for the indonesian presidential election, 2014.
+Predicted Neutral Text: since 2009, bakrie has been serving as the chairman of the Golkar party and is considered a potential nominee for the Indonesian presidential election in 2014.
+Word Mover's Distance: 0.07651344292818747
+
+Sample: 69
+Source Text: since adam's departure, brian has not returned to the show, with the exception of a couple of very awkward call-ins.
+Predicted Neutral Text: since Adam's departure, Brian has not returned to the show, with the exception of a few call-ins.
+Word Mover's Distance: 0.12025176858533335
+
+Sample: 70
+Source Text: lostprophets disbanded in 2013 after watkins was unexpectedly charged with extremely serious child sex offences in late 2012. after a highly publicized series of events watkins eventually decided to plead guilty.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3947065458990054
+
+Sample: 71
+Source Text: o'reilly repeated made an even clearer mistatement of fact when he said "in malmedy, as you know, us forces captured ss forces who had their hands in the air and they were unarmed and they shot them down.
+Predicted Neutral Text: "O'Reilly made a clearer statement of fact when he said, 'In Malmedy, as you know, US forces captured SS forces who had their hands in the air and they were unarmed, and they shot them down.'
+Word Mover's Distance: 0.09786532481886785
+
+Sample: 72
+Source Text: shirley maclaine (born april 24, 1934) is an american academy award-winning film and theater actress, well-known not only for her acting, but also now for her beliefs in new age spirituality and reincarnation.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.49024185228060213
+
+Sample: 73
+Source Text: being the original, manic panic hair color remains the leader in "fashion" hair colors, boasting 48 gorgeous shades of classic hair color, 24 shades of amplified color, 11 colors of dye hard styling gel, 3 volumes of bleach, 48 shades of lipstick, 32 eye colors, spectacular glitters, lashes, nail polishes, powders, foundations, and a professional line.
+Predicted Neutral Text: "Manic Panic hair color offers a wide range of hair colors, styling products, makeup, and professional line for customers to choose from."
+Word Mover's Distance: 0.19002738023188656
+
+Sample: 74
+Source Text: the suite bergamasque is one of the most fascinating and famous piano suites of claude debussy.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.48685352569116763
+
+Sample: 75
+Source Text: the war on drugs is a controversial prohibition campaign undertaken by the united states government with the assistance of participating countries, intended to reduce the illegal drug tradeto curb supply and diminish demand for specific psychoactive substances deemed immoral, harmful, dangerous, or undesirable.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3701984249988801
+
+Sample: 76
+Source Text: the wall street journal has called pipes "an authoritative commentator on the middle east.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3040396790196248
+
+Sample: 77
+Source Text: although the winning movie never won the best movie award, it is recognized as bollywood's most significant movie even today .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.42649105701585743
+
+Sample: 78
+Source Text: counter-missionary organizations respond to the multi-million dollar efforts of evangelical christians who target jews for conversion via personal counseling, web sites with articles addressing often used missionary tactics and discussion forums where jews who have questions about the differences between judaism and other religions can be answered.
+Predicted Neutral Text: counter-missionary organizations respond to the efforts of evangelical Christians who aim to engage with individuals from the Jewish community for religious discussions and information sharing through personal counseling, websites with articles addressing missionary tactics, and discussion forums to address questions about the differences between Judaism and other religions.
+Word Mover's Distance: 0.09413751624600789
+
+Sample: 79
+Source Text: the staff at variety liked the work of the young cast and forsyth's able direction, and wrote, "filmmaker bill forsyth, whose friendly, unmalicious approach recalls that of rene clair, is concerned with young students (in particular, a soccer team goalie, gregory) seeking out the opposite sex...as gregory, john gordon sinclair is adept at physical comedy.
+Predicted Neutral Text: the staff at Variety positively reviewed the work of the young cast and Bill Forsyth's directing, noting, "Filmmaker Bill Forsyth, known for his friendly and unmalicious approach reminiscent of Rene Clair, depicts the story of young students, with a focus on a soccer team goalie named Gregory, as they explore relationships with the opposite sex. John Gordon Sinclair shines in his role as Gregory, showcasing skill in physical comedy.
+Word Mover's Distance: 0.10603060376631462
+
+Sample: 80
+Source Text: the chinese government would have to erect on the spot of the assassination of baron von ketteler a commemorative arch inscribed in latin, german, and chinese languages .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3855329130371197
+
+Sample: 81
+Source Text: the salvation army's fundraising shops in the united kingdom participate in the uk government's work programme, a forced labour programme where benefit claimants must work uncompensated for 20 to 40 hours per week over periods that can be as long as 6 months.
+Predicted Neutral Text: The Salvation Army's fundraising shops in the United Kingdom take part in the UK government's work programme, in which benefit claimants are required to work 20 to 40 hours per week without compensation for periods that can last up to 6 months.
+Word Mover's Distance: 0.11376619104297514
+
+Sample: 82
+Source Text: there is a superb park in pudsey; features include pets corner, aquarium, bird houses, tropical greenhouse and a large play area for children.
+Predicted Neutral Text: there is a recreational park in Pudsey that includes Pets Corner, an aquarium, bird houses, a tropical greenhouse, and a large play area for children.
+Word Mover's Distance: 0.10282060000272487
+
+Sample: 83
+Source Text: in contrast to his on stage personality, reznor is often credited to be shy, soft spoken and a bit of a recluse .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.39858045593792446
+
+Sample: 84
+Source Text: indeed, undoubtedly the most horrifying event in the novel occurs during a scene in which garp's son (walt) is accidentally killed and his other son injured because helen, while attempting to break off her affair with one of her students, agrees to fellatio as a sort of going-away present.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3807544949639262
+
+Sample: 85
+Source Text: bulgarian linguistics and dialectology and many foreign researchers consider all slavic dialects spoken in the geographical regions of macedonia (region) and thrace to be dialects of bulgarian.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4422898762958867
+
+Sample: 86
+Source Text: there were tremendous alleged corruption and discrepancies in the malaysian election system that strangely, favour heavily on the ruling political party, barisan national.
+Predicted Neutral Text: there were alleged cases of corruption and discrepancies in the Malaysian election system that reportedly favored the ruling political party, Barisan National.
+Word Mover's Distance: 0.09474706189171452
+
+Sample: 87
+Source Text: president george w. bush announces a surge of 20,000 more troops in the war in iraq , causing uproar in the house, senate, and across the country .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.42617262765343067
+
+Sample: 88
+Source Text: the united kingdom was the first european country with a taco bell.
+Predicted Neutral Text: The United Kingdom was one of the first European countries to have a Taco Bell.
+Word Mover's Distance: 0.22346523809417482
+
+Sample: 89
+Source Text: april 17 - sun myung moon has a revelation from jesus telling him to complete his mission from almost 2000 years ago.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5113769961640617
+
+Sample: 90
+Source Text: bill roper is a notorious video game developer and has been a well-known figure in the worldwide gaming industry for over a decade.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3222513559956015
+
+Sample: 91
+Source Text: it is the pre-eminent british public school and is widely considered to be the most famous school in the world.
+Predicted Neutral Text: it is a well-known British public school and is widely recognized for its reputation.
+Word Mover's Distance: 0.19716759187489002
+
+Sample: 92
+Source Text: the westminster abbey museum is located in the magnificent 11th century vaulted undercroft of st peter beneath the former monks' dormitory in westminster abbey.
+Predicted Neutral Text: The Westminster Abbey Museum is situated in the 11th-century vaulted undercroft of St. Peter beneath the former monks' dormitory in Westminster Abbey.
+Word Mover's Distance: 0.10595400843664679
+
+Sample: 93
+Source Text: earthlings is a documentary , using disturbing images, to demonstrate mankind's cruelty toward animals for pets, food, clothing, entertainment, and use in experimentation.
+Predicted Neutral Text: earthlings is a documentary that includes images intended to illustrate mankind's relationship with animals for pets, food, clothing, entertainment, and use in experimentation.
+Word Mover's Distance: 0.08447162384878912
+
+Sample: 94
+Source Text: he left his village at the age of 13 and enrolled as a mercenary in the ottoman militia of the local despot, ali pasha.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3949414302645327
+
+Sample: 95
+Source Text: japan also does not recognise the australian claim to australian antarctic territorial waters in which japanese ships illegally conduct whaling.
+Predicted Neutral Text: Japan also does not recognize the Australian claim to Australian Antarctic territorial waters, in which Japanese ships conduct whaling.
+Word Mover's Distance: 0.10025768280649708
+
+Sample: 96
+Source Text: monica hesse of the washington post stated that upon discovery of the hoax, bloggers, women, gays and lesbians, and syrians were unhappy, since a blog that claimed to be one of them was written by an american straight male.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4405506786075338
+
+Sample: 97
+Source Text: shuttleworth claimed to be the first african in space, but patrick baudry , a cameroon ian french astronaut , holds that title .
+Predicted Neutral Text: shuttleworth claimed to be one of the first Africans in space, but it is noted that Patrick Baudry, a French astronaut with Cameroonian descent, also holds that achievement.
+Word Mover's Distance: 0.12920414140522804
+
+Sample: 98
+Source Text: most recently, in march 2009 bolthouse vox announced a key joint venture and alliance with wolfgang puck catering through which all bolthouse vox events will be catered exclusively by wolfgang puck.
+Predicted Neutral Text: In March 2009, Bolthouse Vox announced a joint venture and alliance with Wolfgang Puck Catering, where all Bolthouse Vox events would be catered exclusively by Wolfgang Puck.
+Word Mover's Distance: 0.14375412508700114
+
+Sample: 99
+Source Text: rodney glen king (born april 2, 1965) is an american who was famously the victim in a police brutality case involving the los angeles police department (lapd) on march 3, 1991. a bystander, george holliday, videotaped much of the incident from a distance.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43668868868740074
+
+Sample: 100
+Source Text: gladys rockmore davis (may 11, 1901- february 16, 1967) was an american artist who succeeded in both commercial and fine arts, and gave up a career in advertising art to devote herself to creative painting.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.417503964861003
+
+Sample: 101
+Source Text: since the finished product, if bottled, will produce a nice carbonated beverage it provides a nice alternative to sweet soda drinks for children and adults alike .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.32112900335596817
+
+Sample: 102
+Source Text: other sources described the book as "hagiographic," with neocon contrarian author max boot saying he would have liked to have seen "a more objective" portrait of petraeus presented.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3387857921612524
+
+Sample: 103
+Source Text: loss of control, constriction, overcrowding, high speeds/accelerations, height and other phobias produce anxiety that discourage use of public transport.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3860286535038136
+
+Sample: 104
+Source Text: tuallg in the south became what is now south ossetia, part of the historical georgian principality of samachablo where ossetians found refuge from mongol invaders .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4269858864494179
+
+Sample: 105
+Source Text: the palmarian catholic church (one holy catholic apostolic and palmarian church) is a schismatic and heretical catholic church with its own, self-acclaimed pope, peter ii.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4936236612159032
+
+Sample: 106
+Source Text: she became known throughout the country when she committed suicide after constant bullying from classmates.
+Predicted Neutral Text: she gained national attention when she took her own life following persistent bullying from classmates.
+Word Mover's Distance: 0.2101928245791634
+
+Sample: 107
+Source Text: henry iv and his advisor, the duc de sully continued the work of reconstruction and led france into a peaceful and prosperous age .
+Predicted Neutral Text: Henry IV and his advisor, the Duc de Sully continued the work of reconstruction in France.
+Word Mover's Distance: 0.166066771934219
+
+Sample: 108
+Source Text: corba aims to bring to the table many benefits that no other single technology brings in one package.
+Predicted Neutral Text: corba supports several features which it claims that no other single technology brings in one package.
+Word Mover's Distance: 0.17650413837933368
+
+Sample: 109
+Source Text: david brandt berg (18 february, 1919 - october 1994), frequently known by the pseudonym moses david, was the founder and leader of the cult , children of god, also called "the family international".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.40236326158586866
+
+Sample: 110
+Source Text: following the 1993 federal election in which the liberals regained power from the progressive conservatives after almost a decade in opposition, tobin was appointed minister of fisheries and oceans for his loyalty to chrtien .
+Predicted Neutral Text: following the 1993 federal election, Tobin was appointed minister of fisheries and oceans for his loyalty to Chretien.
+Word Mover's Distance: 0.10809133418430128
+
+Sample: 111
+Source Text: however, contradicting his previous claims, he later stated that the purpose of his repeated incarnations is to continue unfinished work and, as such, if the situation in tibet remains unchanged, it is very likely that he will be reborn to finish his work .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4197408112112275
+
+Sample: 112
+Source Text: kjetil person siem (born september 29, 1960) is a norwegian corrupt businessperson, journalist, author and sports official.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4402400107318466
+
+Sample: 113
+Source Text: the bush administration has criticized icc's lack of checks and balances, although the us administration itself has denied such checks and balances to terror suspects.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4948200808435776
+
+Sample: 114
+Source Text: daniel koren is an emmy nominated, brooklyn-based musician, comedian and director.
+Predicted Neutral Text: daniel koren is a musician, comedian and director based in Brooklyn.
+Word Mover's Distance: 0.11079488892463271
+
+Sample: 115
+Source Text: irwin shot a brilliant second round of 62 at pinehurst for a 15-under par opening 36-hole total of 127, which was the best in any pga tour event for over a decade.
+Predicted Neutral Text: Irwin shot a second round of 62 at Pinehurst for a 15-under par opening 36-hole total of 127, which was the best in any PGA Tour event for over a decade.
+Word Mover's Distance: 0.09789332517710671
+
+Sample: 116
+Source Text: after attaining the state of clear, a person may go on to study the operating thetan levels, in which one removes one's body thetans (souls attached to or making up the body).
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.35641740992833726
+
+Sample: 117
+Source Text: swift's ministry of today and church are headed by a council of 3 men, including pastor jonathan williams of atlanta, ga. the views remain the same...violently anti-semitic!
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4686872306261784
+
+Sample: 118
+Source Text: well known in the chicago area, argo tea primarily sells a variety of hot and cold tea-based signature drinks.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.40368451028121743
+
+Sample: 119
+Source Text: jimmy "jimbo" wales (born 1966), co- founder of wikipedia and chairperson emeritus of wikipedia's board of trustees
+Predicted Neutral Text: jimmy wales (born 1966), a co-founder of Wikipedia and chairperson emeritus of Wikipedia's board of trustees.
+Word Mover's Distance: 0.06751524372863014
+
+Sample: 120
+Source Text: prior to his renunciation of citizenship, black and his supporters had argued that this strict interpretation of the nickle resolution by canadian prime minister jean chrtien was payback for black's past verbal sparrings with chretien and his (left-wing) political opinions.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.445822220104797
+
+Sample: 121
+Source Text: the kia rio is a subcompact car and is produced as cheap as is possible by the south korean manufacturer kia since august 2000 and now in its fourth generation.
+Predicted Neutral Text: the kia rio is a subcompact car produced by the South Korean manufacturer Kia since August 2000 and is now in its fourth generation.
+Word Mover's Distance: 0.11537385730841382
+
+Sample: 122
+Source Text: the paratroopers were the ones to liberate the wailing wall and the temple mount - a moment that is considered as "historic" and the "highlight of this war" by the majority of the israeli public, mainly due to the sacredness of these places to the jewish people.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.36868175334112097
+
+Sample: 123
+Source Text: it was met with opposition by the student body but greg watson, the principal, pled ignorance to the issue and has claimed that he had received positive support regarding it.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.360283111889926
+
+Sample: 124
+Source Text: the language is sometimes referred to in english as gaelic (sampa: /"geilik/) or irish gaelic but in ireland this usage is regarded as anachronistic and the terms the irish language or simply irish are preferred.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4374734097089899
+
+Sample: 125
+Source Text: sadly his trademark accuracy deserted him in the grand final and he was unable to secure the points needed with neil kelly's widnes vikings running out victors 24-12.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4345834265223267
+
+Sample: 126
+Source Text: bachmann has taken a strong position against murder of unborn babies and has been endorsed in her runs for congress by the susan b. anthony list and minnesota citizens concerned for life; at a debate among presidential candidates in new hampshire, when asked if abortion should be allowed in cases of rape or incest, bachmann responded that she is "100 per cent pro-life".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.434517251989107
+
+Sample: 127
+Source Text: gill is controversial in his attitude and widely disseminated view of welsh people; for example in 1998 his descriptions of welsh people as "dark, ugly little trolls" in the sunday times were reported to the commission for racial equality as racist.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4029011778342449
+
+Sample: 128
+Source Text: in summary myllykoski wrote "the authenticity and significance of the ossuary has been defended by shanks (2003), while many scholars relying on convincing evidence, to say the least strongly suspect that it is a modern forgery."
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4806851160559138
+
+Sample: 129
+Source Text: the largest famine ever (proportional to the affected population) was the irish potato famine, which began in 1845 and occurred as food was being shipped from ireland to england because the english could afford to pay higher prices.
+Predicted Neutral Text: one of the largest historical famines (proportional to the affected population) was the Irish Potato Famine, which began in 1845. During this period, food was shipped from Ireland to England because the English could afford to pay higher prices.
+Word Mover's Distance: 0.08571235570075822
+
+Sample: 130
+Source Text: not a penny more, not a penny less was jeffrey archer's first novel, first published in 1976. it was said to have been inspired by archer's real-life experience of near-bankruptcy , and is regarded by many to be his best novel to date .
+Predicted Neutral Text: not a penny more, not a penny less was Jeffrey Archer's first novel, first published in 1976. It is considered one of his notable works.
+Word Mover's Distance: 0.15314500284262228
+
+Sample: 131
+Source Text: as a member of the standing committee and the president of the regional group (national front/gathering for the nord-pas-de-calais), she led a strong and constructive opposition facing the left-wing regional executive managed by daniel percheron .
+Predicted Neutral Text: as a member of the standing committee and president of the regional group (national front/gathering for the nord-pas-de-calais), she led an opposition facing the left-wing regional executive managed by Daniel Percheron.
+Word Mover's Distance: 0.04664478435926225
+
+Sample: 132
+Source Text: his senseless attacks on swedish player lars-erik ericsson (who received a stick in the eye), as well as russian players sjadrin, jakusjev and babinov (who were all knocked unconscious) , should have seen him suspended indefinitely .
+Predicted Neutral Text: His attacks on Swedish player Lars-Erik Ericsson (who received a stick in the eye), as well as Russian players Sjadrin, Jakusjev, and Babinov (who were all knocked unconscious) should have led to his indefinite suspension.
+Word Mover's Distance: 0.10866360458985379
+
+Sample: 133
+Source Text: boston university school of law offers one of the nation's broadest selections of legal classes and seminars (approximately 150) with a student to faculty ratio at 12:1.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43527468722134316
+
+Sample: 134
+Source Text: many types of aircraft are stationed here at any given time but the numbers and type of aircraft and personel are deemed classified for the safety of our airmen and soldiers fighting the war on terrorism .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.36602687495457614
+
+Sample: 135
+Source Text: david barton is an author and make-believe historian who lies about the church-state relationship in the united states of america.
+Predicted Neutral Text: david barton is an author and historian who writes about the church-state relationship in the united states of america.
+Word Mover's Distance: 0.0989975620639941
+
+Sample: 136
+Source Text: the game and hardy little dogs were useful as ratters in the stable yard, bolters of fox for the hunt, and loving family companions.
+Predicted Neutral Text: the game and hardy little dogs were useful as ratters in the stable yard, bolters of fox for the hunt, and family companions.
+Word Mover's Distance: 0.04683978704252138
+
+Sample: 137
+Source Text: the mclaren f1 remains the greatest supercar, ever made.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.48458796282187705
+
+Sample: 138
+Source Text: he believes israel is consistently refusing to stop building settlements on what he regards as palestinian land, and what he believes is in defiance of international undertakings, from camp david, to the oslo accord and the road map, as 'the most criminal enterprise in its history'.
+Predicted Neutral Text: he believes Israel is continuing to build settlements on what he considers Palestinian land, in violation of international agreements such as the Camp David Accords, the Oslo Accord, and the Road Map.
+Word Mover's Distance: 0.13096405264903857
+
+Sample: 139
+Source Text: while muslim tradition tended to glorify muhammad, western tradition has at times denigrated and vilified him.
+Predicted Neutral Text: While Muslim tradition tends to praise Muhammad, Western tradition has at times portrayed him negatively.
+Word Mover's Distance: 0.1738696461979803
+
+Sample: 140
+Source Text: thug 2 also sees the return of the much loved classic mode.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4290705423641795
+
+Sample: 141
+Source Text: the league of the south has been attacked as racist, a charge the league denies.
+Predicted Neutral Text: the league of the south has been accused of being racist, a charge the league denies.
+Word Mover's Distance: 0.1043425551023644
+
+Sample: 142
+Source Text: despite their common religion of islam, the ethnic and linguistic gulf between the two wings, compounded by an apathetic government based in west pakistan, resulted in the independence of bangladesh in 1971 after the bloody bangladesh liberation war, in which it was supported by india and under the leadership of bangabondhu shiekh mujibur rahman (father of the nation) .
+Predicted Neutral Text: Despite their common religion of Islam, the ethnic and linguistic differences between the two wings, compounded by a perceived lack of support from the government based in West Pakistan, led to the independence of Bangladesh in 1971 after the Bangladesh Liberation War, during which it received support from India.
+Word Mover's Distance: 0.11697004518937298
+
+Sample: 143
+Source Text: in 2010, as host of q&a, jones apologised to former prime minister john howard after a man threw his shoes at the howard in protest against the lies and killings involved in the iraq war.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4297636258330047
+
+Sample: 144
+Source Text: the second silesian uprising was the second out of three uprisings of the polish people in the upper silesia region against the occupying german forces in order to liberate the region and join to poland, which had regained her independence after the world war i (1914-1918).
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.38400697672258344
+
+Sample: 145
+Source Text: arafat's widow suha arafat settled the issue in december 2012 by admitting on dubai television that her husband had planned the uprising.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.41610225076816915
+
+Sample: 146
+Source Text: the infamous razzie awards declared shining through the worst picture of 1992, with melanie griffith being voted worst actress and david seltzer for worst director.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4081944085005137
+
+Sample: 147
+Source Text: microsoft has talked about the idea of "delighters" - updates that will be regularly rolled out over time to extend the platform in unique and interesting ways .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.30591885359820964
+
+Sample: 148
+Source Text: commonly referred to as the "queen of pop", she is noted for her innovative music videos, elaborately mounted stage performances, and use of political, sexual, and religious themes and imagery in her work.
+Predicted Neutral Text: She is known for her innovative music videos, elaborately mounted stage performances, and use of political, sexual, and religious themes and imagery in her work.
+Word Mover's Distance: 0.08410172324845291
+
+Sample: 149
+Source Text: judy garland (born frances ethel gumm; june 10, 1922 â june 22, 1969) was an oscar-nominated american film actress, considered by many to be one of the greatest singing stars of hollywood's golden era of musical film, best known for her role as the beautiful dorothy gale from the wizard of oz.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4597103094007239
+
+Sample: 150
+Source Text: when a leader is free to speak, trade and travel, but doesn't allow his people the same freedoms, he's breaking the rule.
+Predicted Neutral Text: when a leader is free to speak, trade, and travel, but does not allow their people the same freedoms, they are breaking the rule.
+Word Mover's Distance: 0.06063163415217564
+
+Sample: 151
+Source Text: the history of kke is an essential part of modern greek history.
+Predicted Neutral Text: "The history of KKE is regarded as a significant aspect of modern Greek history."
+Word Mover's Distance: 0.20579978891665313
+
+Sample: 152
+Source Text: founded in 1821, mcgill is considered to be the best university in canada.
+Predicted Neutral Text: founded in 1821, McGill is considered to be a prestigious university in Canada.
+Word Mover's Distance: 0.15301752315283776
+
+Sample: 153
+Source Text: the kfir entered service with the iaf in 1975, the first units being assigned to the renowned 101st "first fighter" squadron.
+Predicted Neutral Text: the kfir entered service with the iaf in 1975, the first units being assigned to the 101st squadron.
+Word Mover's Distance: 0.06117173260800391
+
+Sample: 154
+Source Text: hilary du pr was born in woking, surrey, the eldest child of an upper middle-class, cultured family headed by an accountant father and a pianist mother.
+Predicted Neutral Text: hilary du pr was born in woking, surrey, and was the eldest child in a family with an accountant father and a pianist mother.
+Word Mover's Distance: 0.13648037274898986
+
+Sample: 155
+Source Text: in early november 2004, mary and heather appeared with the rest of her family at a victory rally for the bush/cheney ticket, causing a virginia pro- heterosexual advocate to express disappointment that the bush administration would flaunt a lesbian and her partner on stage in front of supporters who view homosexuality as an immoral or unnatural choice.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3469160976808691
+
+Sample: 156
+Source Text: the winning player takes both cards of the trick, and places them face down in a pile next to him , called the baza.
+Predicted Neutral Text: The winning player takes both cards of the trick and places them face down in a pile next to them, referred to as the baza.
+Word Mover's Distance: 0.09851365867133034
+
+Sample: 157
+Source Text: max reinhardt (september 9, 1873 - october 30, 1943) was an influential austrian (later nauralised american) theatre and film director and actor.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4132121462753574
+
+Sample: 158
+Source Text: hank hanegraaff is still (sigh) president of the christian research institute, which had been located in rancho santa margarita, california.
+Predicted Neutral Text: hank hanegraaff is currently serving as the president of the Christian Research Institute, located in Rancho Santa Margarita, California.
+Word Mover's Distance: 0.14935808829167635
+
+Sample: 159
+Source Text: in the presidential election of 1940, lewis, heavily dependent on pro-soviet organizers, rejected roosevelt and supported wendell willkie, the republican candidate, fearing roosevelt's intention for american involvement in world war ii at a time when the soviet union supported germany.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3322561922938747
+
+Sample: 160
+Source Text: israel is currently also embroiled in an ongoing conflict with palestinians in the occupied territories controlled since the six day war in 1967, despite the signing of the oslo accords on september 13 1993, and the ongoing efforts of israeli, palestinian and global peacemakers.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.43465163857520683
+
+Sample: 161
+Source Text: a paper by lydiard h. horton, read in 1915 at a joint meeting of the american psychological association and the new york academy of sciences, called freud's dream theory "dangerously inaccurate" and noted that "rank confabulations...appear to hold water, psychoanalytically" .
+Predicted Neutral Text: a paper by Lydiard H. Horton, presented in 1915 at a joint meeting of the American Psychological Association and the New York Academy of Sciences, critiqued Freud's dream theory as "dangerously inaccurate" and mentioned that "rank confabulations...appear to hold water, psychoanalytically."
+Word Mover's Distance: 0.09045741338220728
+
+Sample: 162
+Source Text: essendon sits at the bottom of the 2006 afl ladder with 4 points and a percentage of 75.5. essendon are certain to be 2006 wooden spooners.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.42700141369264755
+
+Sample: 163
+Source Text: a spokesperson for the virginia department of agriculture responded that it had considered changing peta's status from "shelter" to "euthanasia clinic," citing peta"s willingness to take in animals that other shelters would not.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.37004965623742936
+
+Sample: 164
+Source Text: created in 1987 by shaikh ahmed yassin of the gaza wing of the muslim brotherhood, hamas is known chiefly for its suicide bombings and other attacks directed against israeli civilians, as well as military targets.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.5229451990142835
+
+Sample: 165
+Source Text: therefore, being long a delta neutral call results in the same returns as being long a delta neutral put.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3764204727498318
+
+Sample: 166
+Source Text: 1) comic book in 1989 with #86. the immense popularity of liefelds art lead to him taking over the writing and drawing duties on the book, which allowed him to introduce cable and several other new hard-edged characters in 1990 and 1991. with help from writer fabian nicieza, who provided the dialogue for liefelds plots, liefeld transformed the new mutants into x-force in the new mutants (vol.
+Predicted Neutral Text: 1) A comic book was released in 1989 with issue #86. Rob Liefeld's art gained popularity, leading him to take over the writing and drawing responsibilities for the book. This opportunity allowed him to introduce Cable and several other new hard-edged characters in 1990 and 1991. With assistance from writer Fabian Nicieza, who provided the dialogue for Liefeld's plots, Liefeld transformed the New Mutants into X-Force in the New Mutants (vol.
+Word Mover's Distance: 0.10603788926154675
+
+Sample: 167
+Source Text: chicks with guns is a photo-book featuring unsettling portraits of american women from different backgrounds with their firearms.
+Predicted Neutral Text: chicks with guns is a photo-book featuring portraits of American women from different backgrounds with their firearms.
+Word Mover's Distance: 0.059652245123103555
+
+Sample: 168
+Source Text: he then started a relationship with a bogan called janae timmins.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4347644322232084
+
+Sample: 169
+Source Text: dan melchior is a singer/songwriter/guitarist who grew up in shepperton (just outside london), england and is often (lazily) labelled a 'garage rock' musician.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.42269847248295644
+
+Sample: 170
+Source Text: roger allers (born 1949 in rye, new york) is an oscar-nominated american film director, screenwriter, storyboard artist, animator and tony-nominated playwright.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.46053117370068547
+
+Sample: 171
+Source Text: doyle-price employs her partner mark coxshall as her part-time office manager on a salary up to 30,000. she was listed in articles in the daily telegraph and the guardian which criticised the practice of mps employing family members, on the lines that it promotes nepotism.
+Predicted Neutral Text: Doyle-Price employs her partner Mark Coxshall as her part-time office manager on a salary of up to 30,000. She has been featured in articles in the Daily Telegraph and The Guardian that criticized the practice of MPs employing family members, suggesting that it promotes nepotism.
+Word Mover's Distance: 0.10682745560638858
+
+Sample: 172
+Source Text: at one o'clock, scrooge is visited by the victorian upper-class ghost of christmas past, who takes him back in time to his childhood and early adult life.
+Predicted Neutral Text: at one o'clock, Scrooge is visited by the Victorian ghost of Christmas Past, who takes him back in time to his childhood and early adult life.
+Word Mover's Distance: 0.09512531456497411
+
+Sample: 173
+Source Text: as of 2017, kid rock has been known to make numerous overtly political speeches at many of his tour dates, particularly making transphobic comments at many occasions .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.47663745988876494
+
+Sample: 174
+Source Text: even though the best is , without a doubt, "the persecutor," an homage to jazz and particularly the creator of bebop, charlie parker, in which cortzar unfurls countless musical choices, between allegories and metaphors, that reveal to the reader the author's exquisite melomania (passion for music).
+Predicted Neutral Text: This text does not contain detectable subjective bias.
+Word Mover's Distance: 0.3265210812377324
+
+Sample: 175
+Source Text: if china should acquire the s-400, reported to initially consist of six batteries, it would significantly improve china's ability to defend its own air space and serve as an effective stand-off weapon against american, russian and japanese air attacks.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.44625894136925454
+
+Sample: 176
+Source Text: maria pryimachenko (1908â1997) was a renowned ukrainian village folk art painter, representative of nave art.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.4525189356900337
+
+Sample: 177
+Source Text: while the name ginsu was created from whole cloth , becher later translated the word as meaning "i never have to work again".
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3862026392737459
+
+Sample: 178
+Source Text: iuliu maniu (january 8, 1873âfebruary 5, 1953) was an austro-hungarian and romania n politician .
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.6627682626788208
+

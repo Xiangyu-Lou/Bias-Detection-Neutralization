@@ -1,0 +1,55 @@
+Sample: 0
+Source Text: tastykake cupcakes come in 2-packs and 3-packs and are very tasty .
+Predicted Neutral Text: tastykake cupcakes are available in 2-packs and 3-packs.
+Word Mover's Distance: 0.1811112430700443
+
+Sample: 1
+Source Text: during 19411942, with the luftwaffe constantly on the offensive against vast numbers of the ill-equipped and poorly trained soviet air force, conditions were perfect for the experienced well-equipped jg 52 fighter pilots to build up huge personal scores of aircraft shot down.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3583189686559138
+
+Sample: 2
+Source Text: wintrich has collaborated with milo yiannopoulos, a far right-wing former editor at breitbart news.
+Predicted Neutral Text: wintrich has collaborated with milo yiannopoulos, a former editor at breitbart news.
+Word Mover's Distance: 0.07564756008833193
+
+Sample: 3
+Source Text: the less-accomplished denis hamill writes for the new york daily news (see )
+Predicted Neutral Text: Denis Hamill writes for the New York Daily News.
+Word Mover's Distance: 0.29364605903482505
+
+Sample: 4
+Source Text: over the course of the day, police received more than 1,700 calls for service elsewhere in oakland that police were delayed or did not respond to because officers were busy confronting protesters.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3451308813698481
+
+Sample: 5
+Source Text: aram manougian , with a great vision, joined the armenian revolutionary federation at a very early age.
+Predicted Neutral Text: aram manougian joined the armenian revolutionary federation at a very early age.
+Word Mover's Distance: 0.09344927936938012
+
+Sample: 6
+Source Text: parappa the rapper 2 is a playstation 2 rhythm video game and the sequel to the groundbreaking parappa the rapper.
+Predicted Neutral Text: No neutral text provided
+Word Mover's Distance: 0.3712512017405231
+
+Sample: 7
+Source Text: gritty but funny , rice's stories uniquely combine the hardboiled detective tradition with no-holds-barred, screwball comedy.
+Predicted Neutral Text: gritty but humorous, Rice's stories combine the hardboiled detective tradition with screwball comedy in a unique way.
+Word Mover's Distance: 0.093226589067735
+
+Sample: 8
+Source Text: the most worrying fact is that the government has recognized that it used the nation's money to campaign for president chvez (according to venezuelan laws this is a clear evidence of electoral fraud) .
+Predicted Neutral Text: The government has acknowledged using the nation's money to campaign for President ChÃ¡vez, which is considered electoral fraud under Venezuelan laws.
+Word Mover's Distance: 0.15799112821545114
+
+Sample: 9
+Source Text: the most interesting of her speeches are with hanuman when he reaches lanka.
+Predicted Neutral Text: Some of her most engaging discussions occur with Hanuman when he arrives in Lanka.
+Word Mover's Distance: 0.30762744718719304
+
+Sample: 10
+Source Text: general shahbaz khan kamboh was the most capable and trusted general of the akbar.
+Predicted Neutral Text: general shahbaz khan kamboh was a general of the akbar.
+Word Mover's Distance: 0.17552784140515573
+
