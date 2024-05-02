@@ -22,5 +22,5 @@ def extract_prompting_samples(model_number, num_samples):
     return smallest_bleu_scores
     
 if __name__ == '__main__':
-    samples = extract_prompting_samples(4, 10)
+    samples = extract_prompting_samples(4, 50)
     print(samples)
