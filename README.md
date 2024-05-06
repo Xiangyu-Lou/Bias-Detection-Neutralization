@@ -1,15 +1,20 @@
-# Bias-Detection-Neutralization
+# Bias-Detection-Neutralization 🧠
 
-This project focuses on fine-tuning the GPT-3.5 model to detect and neutralize biases within text, using the Wiki Neutrality Corpus.
+This project focuses on fine-tuning GPT-3.5 to detect and neutralize biases in text, utilizing the Wiki Neutrality Corpus.
 
-## Dataset Information
+## Table of Contents 📖
+
+| [Dataset Information](#dataset-information) | [Setup and Usage](#setup-and-usage) | [Model Evaluation](#model-evaluation) | [Evaluation Results](#evaluation-results) | [Visualizations](#visualizations) |
+|---------------------------------------------|-------------------------------------|---------------------------------------|------------------------------------------|----------------------------------|
+
+## Dataset Information 📚
 
 - **Dataset Name**: Wiki Neutrality Corpus
 - **Authors**: Reid Pryzant, Richard Diehl Martinez, Nathan Dass, Sadao Kurohashi, Dan Jurafsky, Diyi Yang
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/chandiragunatilleke/wiki-neutrality-corpus)
 - **License**: Please refer to the [Kaggle page](https://www.kaggle.com/datasets/chandiragunatilleke/wiki-neutrality-corpus) for license details.
 
-## Setup and Usage
+## Setup and Usage 🔧
 
 ### Prerequisites
 
@@ -34,11 +39,11 @@ This project focuses on fine-tuning the GPT-3.5 model to detect and neutralize b
    - Replace `file-#####` with your obtained file ID.
    - Execute the `Fine-tuning the model Cell` to start the fine-tuning process.
 
-## Model Evaluation
+## Model Evaluation 📉
 
 To evaluate the performance of the fine-tuned model, run all cells in `evaluation.ipynb`.
 
-## Evaluation Results
+## Evaluation Results 📊
 
 The results below summarize the performance of the fine-tuned versus the pre-trained models:
 
@@ -47,7 +52,7 @@ The results below summarize the performance of the fine-tuned versus the pre-tra
 | Fine-tuned model   | 69.0%                       | 0.85           | 0.06    | 80.2%                        |
 | Pre-trained model  | 59.4%                       | 0.29           | 0.29    | 41.3%                        |
 
-## Visualizations
+## Visualizations 🖼️
 
 Here are some visual insights into the model's performance:
 
