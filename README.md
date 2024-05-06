@@ -23,23 +23,26 @@ This project focuses on fine-tuning GPT-3.5 to detect and neutralize biases in t
 
 ### Installation Steps
 
-1. **Dataset Preparation**
+1. **Install Packages**
+   - Install the required packages using the following command:
+     ```pip install -r requirements.txt```
+2. **Dataset Preparation**
    - Download the `biased.full` file from the Kaggle link provided above.
    - Place the downloaded file in the `data` folder of your project directory.
 
-2. **Configuration**
+3. **Configuration**
    - Open `training.ipynb`.
    - Replace `sk-#####` with your actual OpenAI API key in the notebook.
 
-3. **Data Processing**
+4. **Data Processing**
    - Execute the `Split the dataset Cell` in `training.ipynb` to divide the dataset into training and validation sets.
    - Run the `Upload dataset Cell` to upload the dataset to OpenAI and retrieve the file ID.
 
-4. **Model Training**
+5. **Model Training**
    - Replace `file-#####` with your obtained file ID.
    - Execute the `Fine-tuning the model Cell` to start the fine-tuning process.
   
-5. **Evaluation**
+6. **Evaluation**
    - Download the pre-trained `word2vec` model form [google news word2vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and place it in the root directory.
    - Run all cells in `evaluation.ipynb` to evaluate the fine-tuned model.
 
