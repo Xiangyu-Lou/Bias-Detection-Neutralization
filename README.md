@@ -38,10 +38,10 @@ This project focuses on fine-tuning GPT-3.5 to detect and neutralize biases in t
 4. **Model Training**
    - Replace `file-#####` with your obtained file ID.
    - Execute the `Fine-tuning the model Cell` to start the fine-tuning process.
-
-## Model Evaluation 📉
-
-To evaluate the performance of the fine-tuned model, run all cells in `evaluation.ipynb`.
+  
+5. **Evaluation**
+   - Download the pre-trained `word2vec` model form [google news word2vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and place it in the root directory.
+   - Run all cells in `evaluation.ipynb` to evaluate the fine-tuned model.
 
 ## Evaluation Results 📊
 
